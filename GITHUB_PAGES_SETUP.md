@@ -63,7 +63,7 @@ https://你的GitHub用户名.github.io/seoul-pet-care-city/
 
 这只是格式，不能把“你的GitHub用户名”原样提交。**以 Settings → Pages 中的 Visit site 实际地址为准。** 提交这个网站地址，不是 `github.com/...` 源码仓库地址，也不是 localhost。
 
-当前尚未在你的 GitHub 账号创建或发布仓库，因此现在没有可核验的个人 GitHub Pages 正式网址。完成上述发布后，链接可以直接交给教授访问。
+本项目对应仓库为 `liuchen040926-afk/seoul-pet-care-city`，预定 Pages 地址为 `https://liuchen040926-afk.github.io/seoul-pet-care-city/`。是否已完成发布，应以工作流部署结果和实际 HTTP 访问结果为准。
 
 ## 五、本地运行和检查
 

@@ -43,7 +43,9 @@ npm run poster
 
 没有可用的 cua_repl.js 浏览器控制工具，未声称完成真实浏览器排版、移动端或 canvas 保存测试。数据、DOM、构建与 SVG 静态渲染检查结果见 TEST_REPORT.md。
 
-在线网址：https://seoul-pet-care-city-yusin.butterycactus.chatgpt.site
+GitHub Pages 地址（部署工作流成功后）：https://liuchen040926-afk.github.io/seoul-pet-care-city/
+
+源码仓库：https://github.com/liuchen040926-afk/seoul-pet-care-city
 
 ## GitHub Pages
 
