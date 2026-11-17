@@ -1,0 +1,34 @@
+{
+  "id": "11650",
+  "category": "districts",
+  "file_name": "assets/districts/11650.webp",
+  "original_filename": "28171153.jpg",
+  "source_page": "https://www.pexels.com/photo/a-black-dog-running-through-a-field-with-a-stick-28171153/",
+  "original_source_address": "https://images.pexels.com/photos/28171153/pexels-photo-28171153.jpeg?cs=srgb&dl=pexels-miami302-28171153.jpg&fm=jpg",
+  "downloaded_source_address": "https://images.pexels.com/photos/28171153/pexels-photo-28171153.jpeg?auto=compress&cs=tinysrgb&w=2400",
+  "license": "Pexels License",
+  "license_url": "https://www.pexels.com/license/",
+  "author": "Elina Volkova",
+  "author_url": "https://www.pexels.com/@miami302/",
+  "district_code": "11650",
+  "district_name_ko": "서초구",
+  "placement": "지역 상세 및 비교",
+  "purpose": "반려견과 함께하는 일상",
+  "alt_ko": "반려견과 함께하는 일상 · 일반 주제 사진",
+  "is_real_location_photo": false,
+  "location_verification": "촬영지 미확인 · 서울 자치구나 특정 병원 실촬영으로 표시하지 않음",
+  "source_description": "Black dog joyfully playing and running in a lush green field holding a stick.",
+  "original_dimensions": [
+    5472,
+    3648
+  ],
+  "download_dimensions": [
+    2400,
+    1600
+  ],
+  "transformations": "16:9 자르기",
+  "requirement_note": "해당 자치구 촬영지 확인 불가. 일반 반려생활 주제 사진으로 대체.",
+  "retrieved_date": "2026-11-16",
+  "original_sha256": "0d5a0288efff930a5cb081a73b3aae4d9028c9d148b90b58353f928aab6073f2",
+  "background_color": null
+}

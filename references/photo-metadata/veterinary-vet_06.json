@@ -1,0 +1,34 @@
+{
+  "id": "vet_06",
+  "category": "veterinary",
+  "file_name": "assets/veterinary/vet_06.webp",
+  "original_filename": "6235239.jpg",
+  "source_page": "https://www.pexels.com/photo/medical-professional-using-an-ultrasound-6235239/",
+  "original_source_address": "https://images.pexels.com/photos/6235239/pexels-photo-6235239.jpeg?cs=srgb&dl=pexels-tima-miroshnichenko-6235239.jpg&fm=jpg",
+  "downloaded_source_address": "https://images.pexels.com/photos/6235239/pexels-photo-6235239.jpeg?auto=compress&cs=tinysrgb&w=2400",
+  "license": "Pexels License",
+  "license_url": "https://www.pexels.com/license/",
+  "author": "Tima Miroshnichenko",
+  "author_url": "https://www.pexels.com/@tima-miroshnichenko/",
+  "district_code": null,
+  "district_name_ko": null,
+  "placement": "의료 모드 및 의료 사진 갤러리",
+  "purpose": "수의사의 초음파 검사",
+  "alt_ko": "수의사의 초음파 검사 · 일반 주제 사진",
+  "is_real_location_photo": false,
+  "location_verification": "촬영지 미확인 · 서울 자치구나 특정 병원 실촬영으로 표시하지 않음",
+  "source_description": "A veterinarian performing an ultrasound scan on an animal in a clinical setting.",
+  "original_dimensions": [
+    3982,
+    5973
+  ],
+  "download_dimensions": [
+    2400,
+    3600
+  ],
+  "transformations": "사진 비율 유지",
+  "requirement_note": null,
+  "retrieved_date": "2026-11-16",
+  "original_sha256": "03d4f8f820fa4f17272cfd2c845175036e87816501e0994cf89d71aa1ea8931c",
+  "background_color": null
+}

@@ -1,0 +1,34 @@
+{
+  "id": "11350",
+  "category": "districts",
+  "file_name": "assets/districts/11350.webp",
+  "original_filename": "7210356.jpg",
+  "source_page": "https://www.pexels.com/photo/unrecognizable-woman-embracing-border-collie-and-gun-dog-on-lawn-7210356/",
+  "original_source_address": "https://images.pexels.com/photos/7210356/pexels-photo-7210356.jpeg?cs=srgb&dl=pexels-blue-bird-7210356.jpg&fm=jpg",
+  "downloaded_source_address": "https://images.pexels.com/photos/7210356/pexels-photo-7210356.jpeg?auto=compress&cs=tinysrgb&w=2400",
+  "license": "Pexels License",
+  "license_url": "https://www.pexels.com/license/",
+  "author": "Blue Bird",
+  "author_url": "https://www.pexels.com/@blue-bird/",
+  "district_code": "11350",
+  "district_name_ko": "노원구",
+  "placement": "지역 상세 및 비교",
+  "purpose": "반려견과 함께하는 일상",
+  "alt_ko": "반려견과 함께하는 일상 · 일반 주제 사진",
+  "is_real_location_photo": false,
+  "location_verification": "촬영지 미확인 · 서울 자치구나 특정 병원 실촬영으로 표시하지 않음",
+  "source_description": "Smiling woman with a border collie and Labrador enjoying a sunny day outdoors.",
+  "original_dimensions": [
+    5040,
+    3360
+  ],
+  "download_dimensions": [
+    2400,
+    1600
+  ],
+  "transformations": "16:9 자르기",
+  "requirement_note": "해당 자치구 촬영지 확인 불가. 일반 반려생활 주제 사진으로 대체.",
+  "retrieved_date": "2026-11-16",
+  "original_sha256": "c0e79bd10012c55f61fac18beb313afe68204ef0e8077fd850e40da4abf0de22",
+  "background_color": null
+}

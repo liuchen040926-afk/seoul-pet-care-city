@@ -1,0 +1,34 @@
+{
+  "id": "11680",
+  "category": "districts",
+  "file_name": "assets/districts/11680.webp",
+  "original_filename": "19175821.jpg",
+  "source_page": "https://www.pexels.com/photo/man-walking-five-dogs-on-leashes-19175821/",
+  "original_source_address": "https://images.pexels.com/photos/19175821/pexels-photo-19175821.jpeg?cs=srgb&dl=pexels-mibernaa-19175821.jpg&fm=jpg",
+  "downloaded_source_address": "https://images.pexels.com/photos/19175821/pexels-photo-19175821.jpeg?auto=compress&cs=tinysrgb&w=2400",
+  "license": "Pexels License",
+  "license_url": "https://www.pexels.com/license/",
+  "author": "Berna    ",
+  "author_url": "https://www.pexels.com/@mibernaa/",
+  "district_code": "11680",
+  "district_name_ko": "강남구",
+  "placement": "지역 상세 및 비교",
+  "purpose": "반려견과 함께하는 일상",
+  "alt_ko": "반려견과 함께하는 일상 · 일반 주제 사진",
+  "is_real_location_photo": false,
+  "location_verification": "촬영지 미확인 · 서울 자치구나 특정 병원 실촬영으로 표시하지 않음",
+  "source_description": "A man walking a group of diverse dogs on leashes in a grassy park area.",
+  "original_dimensions": [
+    4922,
+    3281
+  ],
+  "download_dimensions": [
+    2400,
+    1600
+  ],
+  "transformations": "16:9 자르기",
+  "requirement_note": "해당 자치구 촬영지 확인 불가. 일반 반려생활 주제 사진으로 대체.",
+  "retrieved_date": "2026-11-16",
+  "original_sha256": "c498c75b0ddbe90b80c18aad88f244c065395852d613a59ed4dfb40d5e8d66d8",
+  "background_color": null
+}

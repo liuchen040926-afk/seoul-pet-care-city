@@ -1,0 +1,34 @@
+{
+  "id": "11200",
+  "category": "districts",
+  "file_name": "assets/districts/11200.webp",
+  "original_filename": "40937107.jpg",
+  "source_page": "https://www.pexels.com/photo/border-collies-playing-with-stick-in-open-field-40937107/",
+  "original_source_address": "https://images.pexels.com/photos/40937107/pexels-photo-40937107.jpeg?cs=srgb&dl=pexels-bertellifotografia-40937107.jpg&fm=jpg",
+  "downloaded_source_address": "https://images.pexels.com/photos/40937107/pexels-photo-40937107.jpeg?auto=compress&cs=tinysrgb&w=2400",
+  "license": "Pexels License",
+  "license_url": "https://www.pexels.com/license/",
+  "author": "Matheus Bertelli",
+  "author_url": "https://www.pexels.com/@bertellifotografia/",
+  "district_code": "11200",
+  "district_name_ko": "성동구",
+  "placement": "지역 상세 및 비교",
+  "purpose": "반려견과 함께하는 일상",
+  "alt_ko": "반려견과 함께하는 일상 · 일반 주제 사진",
+  "is_real_location_photo": false,
+  "location_verification": "촬영지 미확인 · 서울 자치구나 특정 병원 실촬영으로 표시하지 않음",
+  "source_description": "Two Border Collies enjoy a playful moment with a stick in an open, grassy field.",
+  "original_dimensions": [
+    2490,
+    1660
+  ],
+  "download_dimensions": [
+    2400,
+    1600
+  ],
+  "transformations": "16:9 자르기",
+  "requirement_note": "해당 자치구 촬영지 확인 불가. 일반 반려생활 주제 사진으로 대체.",
+  "retrieved_date": "2026-11-16",
+  "original_sha256": "2eb9f2ee8d9463281838069266d9d95758d27eb08f39fa2c051c35ae35de3499",
+  "background_color": null
+}

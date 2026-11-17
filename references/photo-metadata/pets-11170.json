@@ -1,0 +1,34 @@
+{
+  "id": "11170",
+  "category": "pets",
+  "file_name": "assets/pets/11170.webp",
+  "original_filename": "31080779.jpg",
+  "source_page": "https://www.pexels.com/photo/siberian-husky-at-cove-island-park-dusk-31080779/",
+  "original_source_address": "https://images.pexels.com/photos/31080779/pexels-photo-31080779.jpeg?cs=srgb&dl=pexels-david-kanigan-239927285-31080779.jpg&fm=jpg",
+  "downloaded_source_address": "https://images.pexels.com/photos/31080779/pexels-photo-31080779.jpeg?auto=compress&cs=tinysrgb&w=2400",
+  "license": "Pexels License",
+  "license_url": "https://www.pexels.com/license/",
+  "author": "David Kanigan",
+  "author_url": "https://www.pexels.com/@david-kanigan-239927285/",
+  "district_code": "11170",
+  "district_name_ko": "용산구",
+  "placement": "지역 상세 및 비교",
+  "purpose": "시베리안 허스키",
+  "alt_ko": "시베리안 허스키 · 일반 주제 사진",
+  "is_real_location_photo": false,
+  "location_verification": "촬영지 미확인 · 서울 자치구나 특정 병원 실촬영으로 표시하지 않음",
+  "source_description": "Siberian Husky standing on a rock at Cove Island Park, Stamford, CT, at dusk.",
+  "original_dimensions": [
+    9504,
+    6336
+  ],
+  "download_dimensions": [
+    2400,
+    1600
+  ],
+  "transformations": "배경 제거",
+  "requirement_note": null,
+  "retrieved_date": "2026-11-16",
+  "original_sha256": "01aa8d0973276c3b27eb2931d2f6298b52c556931c0eaef6644e0d652f7753c8",
+  "background_color": "#FF6933"
+}

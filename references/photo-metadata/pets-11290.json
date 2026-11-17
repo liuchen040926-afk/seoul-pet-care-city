@@ -1,0 +1,34 @@
+{
+  "id": "11290",
+  "category": "pets",
+  "file_name": "assets/pets/11290.webp",
+  "original_filename": "16669180.jpg",
+  "source_page": "https://www.pexels.com/photo/fluffy-blue-eyed-sheltie-dog-lying-in-grass-16669180/",
+  "original_source_address": "https://images.pexels.com/photos/16669180/pexels-photo-16669180.jpeg?cs=srgb&dl=pexels-jaclou-dl-16669180.jpg&fm=jpg",
+  "downloaded_source_address": "https://images.pexels.com/photos/16669180/pexels-photo-16669180.jpeg?auto=compress&cs=tinysrgb&w=2400",
+  "license": "Pexels License",
+  "license_url": "https://www.pexels.com/license/",
+  "author": "JacLou- DL",
+  "author_url": "https://www.pexels.com/@jaclou-dl/",
+  "district_code": "11290",
+  "district_name_ko": "성북구",
+  "placement": "지역 상세 및 비교",
+  "purpose": "셰틀랜드 시프도그",
+  "alt_ko": "셰틀랜드 시프도그 · 일반 주제 사진",
+  "is_real_location_photo": false,
+  "location_verification": "촬영지 미확인 · 서울 자치구나 특정 병원 실촬영으로 표시하지 않음",
+  "source_description": "Adorable Sheltie dog with fluffy coat resting in a vibrant grassy meadow on a sunny day.",
+  "original_dimensions": [
+    6016,
+    4016
+  ],
+  "download_dimensions": [
+    2400,
+    1602
+  ],
+  "transformations": "배경 제거",
+  "requirement_note": null,
+  "retrieved_date": "2026-11-16",
+  "original_sha256": "82e6e7d1d573d58cda3a22ab0ff1269b2ab8bdd254f8a64577a3a1a8edc5239b",
+  "background_color": "#FF6933"
+}

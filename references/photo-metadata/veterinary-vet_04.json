@@ -1,0 +1,34 @@
+{
+  "id": "vet_04",
+  "category": "veterinary",
+  "file_name": "assets/veterinary/vet_04.webp",
+  "original_filename": "6235114.jpg",
+  "source_page": "https://www.pexels.com/photo/man-in-blue-scrub-suit-checking-up-a-dog-6235114/",
+  "original_source_address": "https://images.pexels.com/photos/6235114/pexels-photo-6235114.jpeg?cs=srgb&dl=pexels-tima-miroshnichenko-6235114.jpg&fm=jpg",
+  "downloaded_source_address": "https://images.pexels.com/photos/6235114/pexels-photo-6235114.jpeg?auto=compress&cs=tinysrgb&w=2400",
+  "license": "Pexels License",
+  "license_url": "https://www.pexels.com/license/",
+  "author": "Tima Miroshnichenko",
+  "author_url": "https://www.pexels.com/@tima-miroshnichenko/",
+  "district_code": null,
+  "district_name_ko": null,
+  "placement": "의료 모드 및 의료 사진 갤러리",
+  "purpose": "동물병원 진료실",
+  "alt_ko": "동물병원 진료실 · 일반 주제 사진",
+  "is_real_location_photo": false,
+  "location_verification": "촬영지 미확인 · 서울 자치구나 특정 병원 실촬영으로 표시하지 않음",
+  "source_description": "A veterinarian checks a German Shepherd dog in a sterile clinic environment.",
+  "original_dimensions": [
+    5326,
+    3551
+  ],
+  "download_dimensions": [
+    2400,
+    1600
+  ],
+  "transformations": "사진 비율 유지",
+  "requirement_note": null,
+  "retrieved_date": "2026-11-16",
+  "original_sha256": "ba2e5eff6d728001d139f654bd87bf50cc5660fba38d817d89db75d3f94ba222",
+  "background_color": null
+}

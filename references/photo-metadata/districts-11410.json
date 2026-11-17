@@ -1,0 +1,34 @@
+{
+  "id": "11410",
+  "category": "districts",
+  "file_name": "assets/districts/11410.webp",
+  "original_filename": "10530164.jpg",
+  "source_page": "https://www.pexels.com/photo/dogs-playing-on-the-grass-field-10530164/",
+  "original_source_address": "https://images.pexels.com/photos/10530164/pexels-photo-10530164.jpeg?cs=srgb&dl=pexels-alexasfotos-10530164.jpg&fm=jpg",
+  "downloaded_source_address": "https://images.pexels.com/photos/10530164/pexels-photo-10530164.jpeg?auto=compress&cs=tinysrgb&w=2400",
+  "license": "Pexels License",
+  "license_url": "https://www.pexels.com/license/",
+  "author": "Alexas Fotos",
+  "author_url": "https://www.pexels.com/@alexasfotos/",
+  "district_code": "11410",
+  "district_name_ko": "서대문구",
+  "placement": "지역 상세 및 비교",
+  "purpose": "반려견과 함께하는 일상",
+  "alt_ko": "반려견과 함께하는 일상 · 일반 주제 사진",
+  "is_real_location_photo": false,
+  "location_verification": "촬영지 미확인 · 서울 자치구나 특정 병원 실촬영으로 표시하지 않음",
+  "source_description": "Two dogs playing joyfully in a lush green grass field on a sunny day.",
+  "original_dimensions": [
+    5392,
+    3595
+  ],
+  "download_dimensions": [
+    2400,
+    1600
+  ],
+  "transformations": "16:9 자르기",
+  "requirement_note": "해당 자치구 촬영지 확인 불가. 일반 반려생활 주제 사진으로 대체.",
+  "retrieved_date": "2026-11-16",
+  "original_sha256": "606967a2fed98952ad0083bbfa66b3a83b1f93b6fee09a59cfea75b684e06df0",
+  "background_color": null
+}

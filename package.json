@@ -1,0 +1,31 @@
+{
+  "name": "seoul-pet-care-city",
+  "version": "3.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "node scripts/sync-public.mjs && vite --host 0.0.0.0",
+    "build": "node scripts/sync-public.mjs && vite build",
+    "prepare-data": "node scripts/prepare-data.mjs",
+    "validate": "node scripts/validate-data.mjs",
+    "test": "node --test tests/*.test.mjs",
+    "test:ui": "node scripts/test-ui.mjs",
+    "poster": "node scripts/render-poster.mjs",
+    "prebuild": "node scripts/validate-data.mjs",
+    "predev": "node scripts/validate-data.mjs",
+    "preview": "vite preview --host 0.0.0.0",
+    "test:pages": "node scripts/test-pages.mjs"
+  },
+  "dependencies": {
+    "d3": "^7.9.0",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0"
+  },
+  "devDependencies": {
+    "esbuild": "^0.28.2",
+    "jsdom": "^31.0.1",
+    "vite": "^6.1.0"
+  },
+  "engines": {
+    "node": ">=24.15.0 <25"
+  }
+}

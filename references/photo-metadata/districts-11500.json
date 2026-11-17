@@ -1,0 +1,34 @@
+{
+  "id": "11500",
+  "category": "districts",
+  "file_name": "assets/districts/11500.webp",
+  "original_filename": "9354904.jpg",
+  "source_page": "https://www.pexels.com/photo/man-walking-the-dogs-in-a-park-9354904/",
+  "original_source_address": "https://images.pexels.com/photos/9354904/pexels-photo-9354904.jpeg?cs=srgb&dl=pexels-pnw-prod-9354904.jpg&fm=jpg",
+  "downloaded_source_address": "https://images.pexels.com/photos/9354904/pexels-photo-9354904.jpeg?auto=compress&cs=tinysrgb&w=2400",
+  "license": "Pexels License",
+  "license_url": "https://www.pexels.com/license/",
+  "author": "PNW Production",
+  "author_url": "https://www.pexels.com/@pnw-prod/",
+  "district_code": "11500",
+  "district_name_ko": "강서구",
+  "placement": "지역 상세 및 비교",
+  "purpose": "반려견과 함께하는 일상",
+  "alt_ko": "반려견과 함께하는 일상 · 일반 주제 사진",
+  "is_real_location_photo": false,
+  "location_verification": "촬영지 미확인 · 서울 자치구나 특정 병원 실촬영으로 표시하지 않음",
+  "source_description": "A man strolls with dogs on a sunlit park walkway, surrounded by trees.",
+  "original_dimensions": [
+    5040,
+    3360
+  ],
+  "download_dimensions": [
+    2400,
+    1600
+  ],
+  "transformations": "16:9 자르기",
+  "requirement_note": "해당 자치구 촬영지 확인 불가. 일반 반려생활 주제 사진으로 대체.",
+  "retrieved_date": "2026-11-16",
+  "original_sha256": "995b85d14ca94ea28d35bc0aed314c44bec25225eb7aecda5eba7abaff633817",
+  "background_color": null
+}

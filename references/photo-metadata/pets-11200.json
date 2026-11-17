@@ -1,0 +1,34 @@
+{
+  "id": "11200",
+  "category": "pets",
+  "file_name": "assets/pets/11200.webp",
+  "original_filename": "37530558.jpg",
+  "source_page": "https://www.pexels.com/photo/adorable-corgi-enjoying-outdoor-sunshine-37530558/",
+  "original_source_address": "https://images.pexels.com/photos/37530558/pexels-photo-37530558.jpeg?cs=srgb&dl=pexels-2161424855-37530558.jpg&fm=jpg",
+  "downloaded_source_address": "https://images.pexels.com/photos/37530558/pexels-photo-37530558.jpeg?auto=compress&cs=tinysrgb&w=2400",
+  "license": "Pexels License",
+  "license_url": "https://www.pexels.com/license/",
+  "author": "潇阳 刘",
+  "author_url": "https://www.pexels.com/@2161424855/",
+  "district_code": "11200",
+  "district_name_ko": "성동구",
+  "placement": "지역 상세 및 비교",
+  "purpose": "웰시 코기",
+  "alt_ko": "웰시 코기 · 일반 주제 사진",
+  "is_real_location_photo": false,
+  "location_verification": "촬영지 미확인 · 서울 자치구나 특정 병원 실촬영으로 표시하지 않음",
+  "source_description": "Cute Corgi dog smiling outside, captured on a sunny day, conveying joy and warmth.",
+  "original_dimensions": [
+    5152,
+    7728
+  ],
+  "download_dimensions": [
+    2400,
+    3600
+  ],
+  "transformations": "배경 제거",
+  "requirement_note": null,
+  "retrieved_date": "2026-11-16",
+  "original_sha256": "3359b76e3c8d21dcb4a9857431b8b1edd5d1fe653639f125ff0dcbe72e33ceec",
+  "background_color": "#FF6933"
+}

@@ -1,0 +1,34 @@
+{
+  "id": "11650",
+  "category": "pets",
+  "file_name": "assets/pets/11650.webp",
+  "original_filename": "29286576.jpg",
+  "source_page": "https://www.pexels.com/photo/adorable-brown-toy-poodle-sitting-indoors-29286576/",
+  "original_source_address": "https://images.pexels.com/photos/29286576/pexels-photo-29286576.jpeg?cs=srgb&dl=pexels-nihal-arslan-973461695-29286576.jpg&fm=jpg",
+  "downloaded_source_address": "https://images.pexels.com/photos/29286576/pexels-photo-29286576.jpeg?auto=compress&cs=tinysrgb&w=2400",
+  "license": "Pexels License",
+  "license_url": "https://www.pexels.com/license/",
+  "author": "Nihal Arslan",
+  "author_url": "https://www.pexels.com/@nihal-arslan-973461695/",
+  "district_code": "11650",
+  "district_name_ko": "서초구",
+  "placement": "지역 상세 및 비교",
+  "purpose": "토이 푸들",
+  "alt_ko": "토이 푸들 · 일반 주제 사진",
+  "is_real_location_photo": false,
+  "location_verification": "촬영지 미확인 · 서울 자치구나 특정 병원 실촬영으로 표시하지 않음",
+  "source_description": "Cute brown Toy Poodle puppy sitting on a carpet, indoors with soft lighting.",
+  "original_dimensions": [
+    3024,
+    4032
+  ],
+  "download_dimensions": [
+    2400,
+    3200
+  ],
+  "transformations": "배경 제거",
+  "requirement_note": null,
+  "retrieved_date": "2026-11-16",
+  "original_sha256": "cca8a2000646696bf0ff9df2d8799c876b17eba0343a41ae7540221eb6ea43b2",
+  "background_color": "#FF6933"
+}

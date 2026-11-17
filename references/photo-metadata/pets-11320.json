@@ -1,0 +1,34 @@
+{
+  "id": "11320",
+  "category": "pets",
+  "file_name": "assets/pets/11320.webp",
+  "original_filename": "32635798.jpg",
+  "source_page": "https://www.pexels.com/photo/close-up-portrait-of-a-border-collie-dog-32635798/",
+  "original_source_address": "https://images.pexels.com/photos/32635798/pexels-photo-32635798.jpeg?cs=srgb&dl=pexels-mykhailo-petrenko-2152927294-32635798.jpg&fm=jpg",
+  "downloaded_source_address": "https://images.pexels.com/photos/32635798/pexels-photo-32635798.jpeg?auto=compress&cs=tinysrgb&w=2400",
+  "license": "Pexels License",
+  "license_url": "https://www.pexels.com/license/",
+  "author": "Mykhailo Petrenko",
+  "author_url": "https://www.pexels.com/@mykhailo-petrenko-2152927294/",
+  "district_code": "11320",
+  "district_name_ko": "도봉구",
+  "placement": "지역 상세 및 비교",
+  "purpose": "보더 콜리",
+  "alt_ko": "보더 콜리 · 일반 주제 사진",
+  "is_real_location_photo": false,
+  "location_verification": "촬영지 미확인 · 서울 자치구나 특정 병원 실촬영으로 표시하지 않음",
+  "source_description": "Side profile portrait of a Border Collie dog against a dark background.",
+  "original_dimensions": [
+    7360,
+    4912
+  ],
+  "download_dimensions": [
+    2400,
+    1602
+  ],
+  "transformations": "배경 제거",
+  "requirement_note": null,
+  "retrieved_date": "2026-11-16",
+  "original_sha256": "2a565b336357586bd42e16765bfde0a4deb7e40da10fc13b5061261653c7f2f9",
+  "background_color": "#FF6933"
+}

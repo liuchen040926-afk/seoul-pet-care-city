@@ -1,0 +1,34 @@
+{
+  "id": "vet_02",
+  "category": "veterinary",
+  "file_name": "assets/veterinary/vet_02.webp",
+  "original_filename": "6235648.jpg",
+  "source_page": "https://www.pexels.com/photo/a-veterinarian-using-a-stethoscope-on-a-dog-6235648/",
+  "original_source_address": "https://images.pexels.com/photos/6235648/pexels-photo-6235648.jpeg?cs=srgb&dl=pexels-tima-miroshnichenko-6235648.jpg&fm=jpg",
+  "downloaded_source_address": "https://images.pexels.com/photos/6235648/pexels-photo-6235648.jpeg?auto=compress&cs=tinysrgb&w=2400",
+  "license": "Pexels License",
+  "license_url": "https://www.pexels.com/license/",
+  "author": "Tima Miroshnichenko",
+  "author_url": "https://www.pexels.com/@tima-miroshnichenko/",
+  "district_code": null,
+  "district_name_ko": null,
+  "placement": "의료 모드 및 의료 사진 갤러리",
+  "purpose": "수의사와 포메라니안",
+  "alt_ko": "수의사와 포메라니안 · 일반 주제 사진",
+  "is_real_location_photo": false,
+  "location_verification": "촬영지 미확인 · 서울 자치구나 특정 병원 실촬영으로 표시하지 않음",
+  "source_description": "Veterinarian examines a fluffy Pomeranian dog during a routine checkup indoors.",
+  "original_dimensions": [
+    6000,
+    4000
+  ],
+  "download_dimensions": [
+    2400,
+    1600
+  ],
+  "transformations": "사진 비율 유지",
+  "requirement_note": null,
+  "retrieved_date": "2026-11-16",
+  "original_sha256": "5a83b81a620faa9c6d801adf98168d29ee8c7633628e24c846c932291f362443",
+  "background_color": null
+}

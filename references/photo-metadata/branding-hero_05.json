@@ -1,0 +1,34 @@
+{
+  "id": "hero_05",
+  "category": "branding",
+  "file_name": "assets/branding/hero_05.webp",
+  "original_filename": "18150200.jpg",
+  "source_page": "https://www.pexels.com/photo/white-poodle-lying-down-on-floor-18150200/",
+  "original_source_address": "https://images.pexels.com/photos/18150200/pexels-photo-18150200.png?cs=srgb&dl=pexels-ninobur-18150200.jpg&fm=jpg",
+  "downloaded_source_address": "https://images.pexels.com/photos/18150200/pexels-photo-18150200.png?auto=compress&cs=tinysrgb&w=2400",
+  "license": "Pexels License",
+  "license_url": "https://www.pexels.com/license/",
+  "author": "David Brown",
+  "author_url": "https://www.pexels.com/@ninobur/",
+  "district_code": null,
+  "district_name_ko": null,
+  "placement": "브랜드 주제 시각 및 사진 출처",
+  "purpose": "비숑 프리제",
+  "alt_ko": "비숑 프리제 · 일반 주제 사진",
+  "is_real_location_photo": false,
+  "location_verification": "촬영지 미확인 · 서울 자치구나 특정 병원 실촬영으로 표시하지 않음",
+  "source_description": "A cute Bichon Frise dog lies relaxed on a polished wooden floor, showcasing its fluffy white coat.",
+  "original_dimensions": [
+    3275,
+    3276
+  ],
+  "download_dimensions": [
+    2400,
+    2401
+  ],
+  "transformations": "배경 제거",
+  "requirement_note": null,
+  "retrieved_date": "2026-11-16",
+  "original_sha256": "9a5b38e26947108d6ac0cb292252608ecf9095ca1a6a92617db7cea1d892990e",
+  "background_color": null
+}

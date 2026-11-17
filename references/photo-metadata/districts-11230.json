@@ -1,0 +1,34 @@
+{
+  "id": "11230",
+  "category": "districts",
+  "file_name": "assets/districts/11230.webp",
+  "original_filename": "7210353.jpg",
+  "source_page": "https://www.pexels.com/photo/smiling-woman-caressing-border-collie-and-hunting-dog-on-lawn-7210353/",
+  "original_source_address": "https://images.pexels.com/photos/7210353/pexels-photo-7210353.jpeg?cs=srgb&dl=pexels-blue-bird-7210353.jpg&fm=jpg",
+  "downloaded_source_address": "https://images.pexels.com/photos/7210353/pexels-photo-7210353.jpeg?auto=compress&cs=tinysrgb&w=2400",
+  "license": "Pexels License",
+  "license_url": "https://www.pexels.com/license/",
+  "author": "Blue Bird",
+  "author_url": "https://www.pexels.com/@blue-bird/",
+  "district_code": "11230",
+  "district_name_ko": "동대문구",
+  "placement": "지역 상세 및 비교",
+  "purpose": "반려견과 함께하는 일상",
+  "alt_ko": "반려견과 함께하는 일상 · 일반 주제 사진",
+  "is_real_location_photo": false,
+  "location_verification": "촬영지 미확인 · 서울 자치구나 특정 병원 실촬영으로 표시하지 않음",
+  "source_description": "A woman enjoys a sunny day outdoors, bonding with her dogs on a grassy lawn.",
+  "original_dimensions": [
+    5040,
+    3360
+  ],
+  "download_dimensions": [
+    2400,
+    1600
+  ],
+  "transformations": "16:9 자르기",
+  "requirement_note": "해당 자치구 촬영지 확인 불가. 일반 반려생활 주제 사진으로 대체.",
+  "retrieved_date": "2026-11-16",
+  "original_sha256": "e4c435d6b20ef0f816cd260cb0c63ab942890e16c0a2ce5eecb3138abf8c4802",
+  "background_color": null
+}

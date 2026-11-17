@@ -1,0 +1,34 @@
+{
+  "id": "11320",
+  "category": "districts",
+  "file_name": "assets/districts/11320.webp",
+  "original_filename": "15889805.jpg",
+  "source_page": "https://www.pexels.com/photo/woman-with-two-dogs-sitting-on-the-ground-in-a-park-15889805/",
+  "original_source_address": "https://images.pexels.com/photos/15889805/pexels-photo-15889805.png?cs=srgb&dl=pexels-ninobur-15889805.jpg&fm=jpg",
+  "downloaded_source_address": "https://images.pexels.com/photos/15889805/pexels-photo-15889805.png?auto=compress&cs=tinysrgb&w=2400",
+  "license": "Pexels License",
+  "license_url": "https://www.pexels.com/license/",
+  "author": "David Brown",
+  "author_url": "https://www.pexels.com/@ninobur/",
+  "district_code": "11320",
+  "district_name_ko": "도봉구",
+  "placement": "지역 상세 및 비교",
+  "purpose": "반려견과 함께하는 일상",
+  "alt_ko": "반려견과 함께하는 일상 · 일반 주제 사진",
+  "is_real_location_photo": false,
+  "location_verification": "촬영지 미확인 · 서울 자치구나 특정 병원 실촬영으로 표시하지 않음",
+  "source_description": "A woman sits with her two dogs on the green grass of a sunny park, enjoying a summer day.",
+  "original_dimensions": [
+    5080,
+    3387
+  ],
+  "download_dimensions": [
+    2400,
+    1600
+  ],
+  "transformations": "16:9 자르기",
+  "requirement_note": "해당 자치구 촬영지 확인 불가. 일반 반려생활 주제 사진으로 대체.",
+  "retrieved_date": "2026-11-16",
+  "original_sha256": "55ba28307c8b16bb684737a51805e5b44d37f492aae4f172db86a54ae6e4406b",
+  "background_color": null
+}

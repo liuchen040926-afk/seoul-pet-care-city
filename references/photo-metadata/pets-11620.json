@@ -1,0 +1,34 @@
+{
+  "id": "11620",
+  "category": "pets",
+  "file_name": "assets/pets/11620.webp",
+  "original_filename": "17589407.jpg",
+  "source_page": "https://www.pexels.com/photo/bichon-frise-in-scarf-17589407/",
+  "original_source_address": "https://images.pexels.com/photos/17589407/pexels-photo-17589407.jpeg?cs=srgb&dl=pexels-pet-foto-644780685-17589407.jpg&fm=jpg",
+  "downloaded_source_address": "https://images.pexels.com/photos/17589407/pexels-photo-17589407.jpeg?auto=compress&cs=tinysrgb&w=2400",
+  "license": "Pexels License",
+  "license_url": "https://www.pexels.com/license/",
+  "author": "Pet foto",
+  "author_url": "https://www.pexels.com/@pet-foto-644780685/",
+  "district_code": "11620",
+  "district_name_ko": "관악구",
+  "placement": "지역 상세 및 비교",
+  "purpose": "비숑 프리제",
+  "alt_ko": "비숑 프리제 · 일반 주제 사진",
+  "is_real_location_photo": false,
+  "location_verification": "촬영지 미확인 · 서울 자치구나 특정 병원 실촬영으로 표시하지 않음",
+  "source_description": "Cute Bichon Frise pet in a stylish scarf siting in a studio with a green background.",
+  "original_dimensions": [
+    4709,
+    3139
+  ],
+  "download_dimensions": [
+    2400,
+    1600
+  ],
+  "transformations": "배경 제거",
+  "requirement_note": null,
+  "retrieved_date": "2026-11-16",
+  "original_sha256": "64f023534215b07055b720177f3aeab9f22e04ba7ae48fc77f5690f6ebf1b0b2",
+  "background_color": "#FF6933"
+}

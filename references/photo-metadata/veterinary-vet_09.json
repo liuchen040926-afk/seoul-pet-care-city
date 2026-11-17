@@ -1,0 +1,34 @@
+{
+  "id": "vet_09",
+  "category": "veterinary",
+  "file_name": "assets/veterinary/vet_09.webp",
+  "original_filename": "6235020.jpg",
+  "source_page": "https://www.pexels.com/photo/pet-owner-looking-at-her-dog-while-standing-near-the-veterinarian-holding-stethoscope-6235020/",
+  "original_source_address": "https://images.pexels.com/photos/6235020/pexels-photo-6235020.jpeg?cs=srgb&dl=pexels-tima-miroshnichenko-6235020.jpg&fm=jpg",
+  "downloaded_source_address": "https://images.pexels.com/photos/6235020/pexels-photo-6235020.jpeg?auto=compress&cs=tinysrgb&w=2400",
+  "license": "Pexels License",
+  "license_url": "https://www.pexels.com/license/",
+  "author": "Tima Miroshnichenko",
+  "author_url": "https://www.pexels.com/@tima-miroshnichenko/",
+  "district_code": null,
+  "district_name_ko": null,
+  "placement": "의료 모드 및 의료 사진 갤러리",
+  "purpose": "수의사와 보호자 상담",
+  "alt_ko": "수의사와 보호자 상담 · 일반 주제 사진",
+  "is_real_location_photo": false,
+  "location_verification": "촬영지 미확인 · 서울 자치구나 특정 병원 실촬영으로 표시하지 않음",
+  "source_description": "Veterinarian consults a woman with her Pomeranian in a monochrome clinic setting.",
+  "original_dimensions": [
+    5317,
+    3545
+  ],
+  "download_dimensions": [
+    2400,
+    1600
+  ],
+  "transformations": "사진 비율 유지",
+  "requirement_note": "수의사와 코기 사진의 사용 권한을 확인하지 못해 포메라니안 진료 상담 사진으로 대체했습니다.",
+  "retrieved_date": "2026-11-16",
+  "original_sha256": "76ab2ce44e65fe565b3ef924ca03dd9a8db8cefab0c6fcea16eb317d5c070e91",
+  "background_color": null
+}

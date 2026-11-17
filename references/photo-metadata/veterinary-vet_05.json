@@ -1,0 +1,34 @@
+{
+  "id": "vet_05",
+  "category": "veterinary",
+  "file_name": "assets/veterinary/vet_05.webp",
+  "original_filename": "28644464.jpg",
+  "source_page": "https://www.pexels.com/photo/adorable-french-bulldog-puppy-at-veterinary-clinic-28644464/",
+  "original_source_address": "https://images.pexels.com/photos/28644464/pexels-photo-28644464.jpeg?cs=srgb&dl=pexels-sueda-guzeldere-774990922-28644464.jpg&fm=jpg",
+  "downloaded_source_address": "https://images.pexels.com/photos/28644464/pexels-photo-28644464.jpeg?auto=compress&cs=tinysrgb&w=2400",
+  "license": "Pexels License",
+  "license_url": "https://www.pexels.com/license/",
+  "author": "Sueda   Güzeldere",
+  "author_url": "https://www.pexels.com/@sueda-guzeldere-774990922/",
+  "district_code": null,
+  "district_name_ko": null,
+  "placement": "의료 모드 및 의료 사진 갤러리",
+  "purpose": "프렌치 불도그 강아지 돌봄",
+  "alt_ko": "프렌치 불도그 강아지 돌봄 · 일반 주제 사진",
+  "is_real_location_photo": false,
+  "location_verification": "촬영지 미확인 · 서울 자치구나 특정 병원 실촬영으로 표시하지 않음",
+  "source_description": "Cute French Bulldog puppy being cared for by veterinary staff wearing gloves.",
+  "original_dimensions": [
+    3512,
+    6240
+  ],
+  "download_dimensions": [
+    2400,
+    4264
+  ],
+  "transformations": "사진 비율 유지",
+  "requirement_note": null,
+  "retrieved_date": "2026-11-16",
+  "original_sha256": "2818bb3e7d58050c87e20adc32f9782edaa7b8d906f00b02a43c5bc10dee1ad5",
+  "background_color": null
+}

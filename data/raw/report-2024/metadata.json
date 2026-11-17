@@ -1,0 +1,18 @@
+{
+  "title": "서울 펫 스마트라이프 : 데이터로 본 반려동물과의 동행",
+  "provider": "서울디지털재단",
+  "official_publisher": "서울특별시",
+  "publication_date": "2024-05-29",
+  "reference_period": "2024-03",
+  "reference_precision": "month",
+  "retrieved_date": "2026-11-17",
+  "catalog_url": "https://news.seoul.go.kr/gov/digital-seoul/data/research-report",
+  "download_url": "https://func.seoul.go.kr/digitalSeoul/digitalSeoulFileDown.do?guid=3E58739C8B1303B2E063C0A8A0686CDD",
+  "dog_definition": "동물보호관리시스템 등록 누적 운영데이터; 사망 개체 포함 (보고서 p.5 각주 7)",
+  "hospital_definition": "지방행정 인허가 데이터의 동물병원 수를 보고서가 2024.3 기준으로 집계 (p.9 그림 6)",
+  "method": "도표의 원본 삽입 지도 숫자를 25구별로 전사하고 두 번 시각 대조. 그림 2와 그림 6이 같은 등록견 지도를 사용함. 전체 합계를 보고서 p.13 (612085) 및 p.9 (924)와 대조.",
+  "expected_total_dogs": 612085,
+  "expected_total_hospitals": 924,
+  "correction_note": "보고서 p.5 본문 강남구 39372는 그림 2의 39792와 다름. 그림 값 39792를 사용하면 25구 합계가 p.13 서울 합계 612085와 정확히 일치. 동일시기 보도도 39792로 표기함.",
+  "raw_record_filtering": "본 프로젝트는 개별 병원 명부를 재필터링한 것이 아니라 공공 연구기관의 공표 집계값을 전사함. 개별 원자료의 영업상태 필터를 독립 수행했다고 주장하지 않음."
+}

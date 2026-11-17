@@ -1,0 +1,34 @@
+{
+  "id": "vet_08",
+  "category": "veterinary",
+  "file_name": "assets/veterinary/vet_08.webp",
+  "original_filename": "6235013.jpg",
+  "source_page": "https://www.pexels.com/photo/man-in-blue-scrub-suit-holding-a-dog-6235013/",
+  "original_source_address": "https://images.pexels.com/photos/6235013/pexels-photo-6235013.jpeg?cs=srgb&dl=pexels-tima-miroshnichenko-6235013.jpg&fm=jpg",
+  "downloaded_source_address": "https://images.pexels.com/photos/6235013/pexels-photo-6235013.jpeg?auto=compress&cs=tinysrgb&w=2400",
+  "license": "Pexels License",
+  "license_url": "https://www.pexels.com/license/",
+  "author": "Tima Miroshnichenko",
+  "author_url": "https://www.pexels.com/@tima-miroshnichenko/",
+  "district_code": null,
+  "district_name_ko": null,
+  "placement": "의료 모드 및 의료 사진 갤러리",
+  "purpose": "보호자와 반려견 진료",
+  "alt_ko": "보호자와 반려견 진료 · 일반 주제 사진",
+  "is_real_location_photo": false,
+  "location_verification": "촬영지 미확인 · 서울 자치구나 특정 병원 실촬영으로 표시하지 않음",
+  "source_description": "A veterinarian and a woman examine a Pomeranian dog in a clinic setting, focused on care.",
+  "original_dimensions": [
+    5655,
+    3770
+  ],
+  "download_dimensions": [
+    2400,
+    1600
+  ],
+  "transformations": "사진 비율 유지",
+  "requirement_note": null,
+  "retrieved_date": "2026-11-16",
+  "original_sha256": "d9770435d5da9739635168227118cf0f54c693ed3f2215abdb4b00a5643ae742",
+  "background_color": null
+}

@@ -1,0 +1,34 @@
+{
+  "id": "vet_07",
+  "category": "veterinary",
+  "file_name": "assets/veterinary/vet_07.webp",
+  "original_filename": "6130971.jpg",
+  "source_page": "https://www.pexels.com/photo/a-close-up-shot-of-a-tabby-cat-6130971/",
+  "original_source_address": "https://images.pexels.com/photos/6130971/pexels-photo-6130971.jpeg?cs=srgb&dl=pexels-tima-miroshnichenko-6130971.jpg&fm=jpg",
+  "downloaded_source_address": "https://images.pexels.com/photos/6130971/pexels-photo-6130971.jpeg?auto=compress&cs=tinysrgb&w=2400",
+  "license": "Pexels License",
+  "license_url": "https://www.pexels.com/license/",
+  "author": "Tima Miroshnichenko",
+  "author_url": "https://www.pexels.com/@tima-miroshnichenko/",
+  "district_code": null,
+  "district_name_ko": null,
+  "placement": "의료 모드 및 의료 사진 갤러리",
+  "purpose": "진료실의 고양이",
+  "alt_ko": "진료실의 고양이 · 일반 주제 사진",
+  "is_real_location_photo": false,
+  "location_verification": "촬영지 미확인 · 서울 자치구나 특정 병원 실촬영으로 표시하지 않음",
+  "source_description": "A ginger tabby cat being gently held on a vet's examination table indoors.",
+  "original_dimensions": [
+    5999,
+    3999
+  ],
+  "download_dimensions": [
+    2400,
+    1600
+  ],
+  "transformations": "사진 비율 유지",
+  "requirement_note": "야간 동물병원 환경 사진의 허가·장소 확인 불가. 일반 주간 동물진료 사진으로 대체하며 야간 운영을 뜻하지 않습니다.",
+  "retrieved_date": "2026-11-16",
+  "original_sha256": "8512639f5dd2b9534f295b2316ed002e78c751435f411417645f54b90adfa29c",
+  "background_color": null
+}

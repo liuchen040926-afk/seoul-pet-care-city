@@ -1,0 +1,34 @@
+{
+  "id": "11680",
+  "category": "pets",
+  "file_name": "assets/pets/11680.webp",
+  "original_filename": "32778241.jpg",
+  "source_page": "https://www.pexels.com/photo/adorable-poodle-in-stylish-outfit-outdoors-32778241/",
+  "original_source_address": "https://images.pexels.com/photos/32778241/pexels-photo-32778241.jpeg?cs=srgb&dl=pexels-blackstoneray-32778241.jpg&fm=jpg",
+  "downloaded_source_address": "https://images.pexels.com/photos/32778241/pexels-photo-32778241.jpeg?auto=compress&cs=tinysrgb&w=2400",
+  "license": "Pexels License",
+  "license_url": "https://www.pexels.com/license/",
+  "author": "Eray Karataş",
+  "author_url": "https://www.pexels.com/@blackstoneray/",
+  "district_code": "11680",
+  "district_name_ko": "강남구",
+  "placement": "지역 상세 및 비교",
+  "purpose": "푸들",
+  "alt_ko": "푸들 · 일반 주제 사진",
+  "is_real_location_photo": false,
+  "location_verification": "촬영지 미확인 · 서울 자치구나 특정 병원 실촬영으로 표시하지 않음",
+  "source_description": "Cute poodle in a fashionable jacket enjoying a sunny day in Degirmendere, Türkiye.",
+  "original_dimensions": [
+    4160,
+    6240
+  ],
+  "download_dimensions": [
+    2400,
+    3600
+  ],
+  "transformations": "배경 제거",
+  "requirement_note": null,
+  "retrieved_date": "2026-11-16",
+  "original_sha256": "032e66941785a744b8d96891a344a51a42a8240299f22d85202c8c8e5bffe783",
+  "background_color": "#FF6933"
+}

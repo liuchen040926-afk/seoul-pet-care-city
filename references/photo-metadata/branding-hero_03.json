@@ -1,0 +1,34 @@
+{
+  "id": "hero_03",
+  "category": "branding",
+  "file_name": "assets/branding/hero_03.webp",
+  "original_filename": "24859842.jpg",
+  "source_page": "https://www.pexels.com/photo/portrait-of-white-furry-dog-24859842/",
+  "original_source_address": "https://images.pexels.com/photos/24859842/pexels-photo-24859842.jpeg?cs=srgb&dl=pexels-mladenscekic-24859842.jpg&fm=jpg",
+  "downloaded_source_address": "https://images.pexels.com/photos/24859842/pexels-photo-24859842.jpeg?auto=compress&cs=tinysrgb&w=2400",
+  "license": "Pexels License",
+  "license_url": "https://www.pexels.com/license/",
+  "author": "Mladen Šćekić",
+  "author_url": "https://www.pexels.com/@mladenscekic/",
+  "district_code": null,
+  "district_name_ko": null,
+  "placement": "브랜드 주제 시각 및 사진 출처",
+  "purpose": "사모예드",
+  "alt_ko": "사모예드 · 일반 주제 사진",
+  "is_real_location_photo": false,
+  "location_verification": "촬영지 미확인 · 서울 자치구나 특정 병원 실촬영으로 표시하지 않음",
+  "source_description": "Close-up of a Samoyed dog with fluffy white fur enjoying a sunny day in the park.",
+  "original_dimensions": [
+    4160,
+    5200
+  ],
+  "download_dimensions": [
+    2400,
+    3000
+  ],
+  "transformations": "배경 제거",
+  "requirement_note": null,
+  "retrieved_date": "2026-11-16",
+  "original_sha256": "cdee50f500ab257a4da8c7c59fa1371e5e30a739731bbd443d52f5d8aa38c747",
+  "background_color": null
+}

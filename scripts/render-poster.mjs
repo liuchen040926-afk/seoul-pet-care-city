@@ -1,0 +1,2 @@
+import{build}from'esbuild';import{execFileSync}from'node:child_process';import fs from'node:fs';
+fs.mkdirSync('../work',{recursive:true});await build({entryPoints:['scripts/render-poster.jsx'],bundle:true,platform:'node',format:'esm',packages:'external',outfile:'.poster-render.mjs'});try{execFileSync('node',['.poster-render.mjs'],{stdio:'inherit'});}finally{fs.rmSync('.poster-render.mjs',{force:true});}

@@ -1,0 +1,34 @@
+{
+  "id": "hero_04",
+  "category": "branding",
+  "file_name": "assets/branding/hero_04.webp",
+  "original_filename": "7256826.jpg",
+  "source_page": "https://www.pexels.com/photo/close-up-shot-of-puppies-7256826/",
+  "original_source_address": "https://images.pexels.com/photos/7256826/pexels-photo-7256826.jpeg?cs=srgb&dl=pexels-alireza-zohoor-parvaz-38715730-7256826.jpg&fm=jpg",
+  "downloaded_source_address": "https://images.pexels.com/photos/7256826/pexels-photo-7256826.jpeg?auto=compress&cs=tinysrgb&w=2400",
+  "license": "Pexels License",
+  "license_url": "https://www.pexels.com/license/",
+  "author": "Alireza Zohoor Parvaz",
+  "author_url": "https://www.pexels.com/@alireza-zohoor-parvaz-38715730/",
+  "district_code": null,
+  "district_name_ko": null,
+  "placement": "브랜드 주제 시각 및 사진 출처",
+  "purpose": "강아지",
+  "alt_ko": "강아지 · 일반 주제 사진",
+  "is_real_location_photo": false,
+  "location_verification": "촬영지 미확인 · 서울 자치구나 특정 병원 실촬영으로 표시하지 않음",
+  "source_description": "Two cute puppies playfully interacting on a dirt path outdoors.",
+  "original_dimensions": [
+    5902,
+    4070
+  ],
+  "download_dimensions": [
+    2400,
+    1655
+  ],
+  "transformations": "배경 제거",
+  "requirement_note": null,
+  "retrieved_date": "2026-11-16",
+  "original_sha256": "89f526b6926e50ce292481480c94a861269cf1290f4caf6b8e16253507e2c4c4",
+  "background_color": null
+}

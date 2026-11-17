@@ -1,0 +1,34 @@
+{
+  "id": "11350",
+  "category": "pets",
+  "file_name": "assets/pets/11350.webp",
+  "original_filename": "29106873.jpg",
+  "source_page": "https://www.pexels.com/photo/fluffy-samoyed-dog-portrait-in-melbourne-29106873/",
+  "original_source_address": "https://images.pexels.com/photos/29106873/pexels-photo-29106873.jpeg?cs=srgb&dl=pexels-joolsmagools-29106873.jpg&fm=jpg",
+  "downloaded_source_address": "https://images.pexels.com/photos/29106873/pexels-photo-29106873.jpeg?auto=compress&cs=tinysrgb&w=2400",
+  "license": "Pexels License",
+  "license_url": "https://www.pexels.com/license/",
+  "author": "Joolsmagools  ®️",
+  "author_url": "https://www.pexels.com/@joolsmagools/",
+  "district_code": "11350",
+  "district_name_ko": "노원구",
+  "placement": "지역 상세 및 비교",
+  "purpose": "사모예드",
+  "alt_ko": "사모예드 · 일반 주제 사진",
+  "is_real_location_photo": false,
+  "location_verification": "촬영지 미확인 · 서울 자치구나 특정 병원 실촬영으로 표시하지 않음",
+  "source_description": "Charming portrait of a fluffy Samoyed dog with a joyful expression in Melbourne.",
+  "original_dimensions": [
+    2724,
+    3632
+  ],
+  "download_dimensions": [
+    2400,
+    3200
+  ],
+  "transformations": "배경 제거",
+  "requirement_note": null,
+  "retrieved_date": "2026-11-16",
+  "original_sha256": "92b66d96a925a65cbda8d29293e53016f70e3899c3b2f9864cdc8c59d353f4d4",
+  "background_color": "#FF6933"
+}

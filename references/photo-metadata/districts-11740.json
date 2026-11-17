@@ -1,0 +1,34 @@
+{
+  "id": "11740",
+  "category": "districts",
+  "file_name": "assets/districts/11740.webp",
+  "original_filename": "7210535.jpg",
+  "source_page": "https://www.pexels.com/photo/unrecognizable-person-walking-pack-of-dogs-in-park-7210535/",
+  "original_source_address": "https://images.pexels.com/photos/7210535/pexels-photo-7210535.jpeg?cs=srgb&dl=pexels-blue-bird-7210535.jpg&fm=jpg",
+  "downloaded_source_address": "https://images.pexels.com/photos/7210535/pexels-photo-7210535.jpeg?auto=compress&cs=tinysrgb&w=2400",
+  "license": "Pexels License",
+  "license_url": "https://www.pexels.com/license/",
+  "author": "Blue Bird",
+  "author_url": "https://www.pexels.com/@blue-bird/",
+  "district_code": "11740",
+  "district_name_ko": "강동구",
+  "placement": "지역 상세 및 비교",
+  "purpose": "반려견과 함께하는 일상",
+  "alt_ko": "반려견과 함께하는 일상 · 일반 주제 사진",
+  "is_real_location_photo": false,
+  "location_verification": "촬영지 미확인 · 서울 자치구나 특정 병원 실촬영으로 표시하지 않음",
+  "source_description": "A dog walker leads a group of dogs on leashes through a sunny park trail.",
+  "original_dimensions": [
+    5040,
+    3360
+  ],
+  "download_dimensions": [
+    2400,
+    1600
+  ],
+  "transformations": "16:9 자르기",
+  "requirement_note": "해당 자치구 촬영지 확인 불가. 일반 반려생활 주제 사진으로 대체.",
+  "retrieved_date": "2026-11-16",
+  "original_sha256": "a9e881de9ec1f9ea42048d48a47daf8fb92e36e4b0c8309f910b145036fc6058",
+  "background_color": null
+}

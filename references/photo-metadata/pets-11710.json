@@ -1,0 +1,34 @@
+{
+  "id": "11710",
+  "category": "pets",
+  "file_name": "assets/pets/11710.webp",
+  "original_filename": "12475794.jpg",
+  "source_page": "https://www.pexels.com/photo/close-up-photo-of-an-adorable-golden-retriver-puppy-12475794/",
+  "original_source_address": "https://images.pexels.com/photos/12475794/pexels-photo-12475794.jpeg?cs=srgb&dl=pexels-couleur-12475794.jpg&fm=jpg",
+  "downloaded_source_address": "https://images.pexels.com/photos/12475794/pexels-photo-12475794.jpeg?auto=compress&cs=tinysrgb&w=2400",
+  "license": "Pexels License",
+  "license_url": "https://www.pexels.com/license/",
+  "author": "Ilo Frey",
+  "author_url": "https://www.pexels.com/@couleur/",
+  "district_code": "11710",
+  "district_name_ko": "송파구",
+  "placement": "지역 상세 및 비교",
+  "purpose": "골든 리트리버 강아지",
+  "alt_ko": "골든 리트리버 강아지 · 일반 주제 사진",
+  "is_real_location_photo": false,
+  "location_verification": "촬영지 미확인 · 서울 자치구나 특정 병원 실촬영으로 표시하지 않음",
+  "source_description": "Cute golden retriever puppy lying on lush green grass, captivating close-up shot.",
+  "original_dimensions": [
+    6240,
+    4160
+  ],
+  "download_dimensions": [
+    2400,
+    1600
+  ],
+  "transformations": "배경 제거",
+  "requirement_note": null,
+  "retrieved_date": "2026-11-16",
+  "original_sha256": "172cad25a0fbe8cb1eab9c337d53c0814dc8729377e5605cf3f691442ee10fc2",
+  "background_color": "#FF6933"
+}

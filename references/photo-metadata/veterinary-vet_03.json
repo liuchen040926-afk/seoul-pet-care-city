@@ -1,0 +1,34 @@
+{
+  "id": "vet_03",
+  "category": "veterinary",
+  "file_name": "assets/veterinary/vet_03.webp",
+  "original_filename": "6235654.jpg",
+  "source_page": "https://www.pexels.com/photo/person-holding-brown-fur-animal-6235654/",
+  "original_source_address": "https://images.pexels.com/photos/6235654/pexels-photo-6235654.jpeg?cs=srgb&dl=pexels-tima-miroshnichenko-6235654.jpg&fm=jpg",
+  "downloaded_source_address": "https://images.pexels.com/photos/6235654/pexels-photo-6235654.jpeg?auto=compress&cs=tinysrgb&w=2400",
+  "license": "Pexels License",
+  "license_url": "https://www.pexels.com/license/",
+  "author": "Tima Miroshnichenko",
+  "author_url": "https://www.pexels.com/@tima-miroshnichenko/",
+  "district_code": null,
+  "district_name_ko": null,
+  "placement": "의료 모드 및 의료 사진 갤러리",
+  "purpose": "반려견 청진 검사",
+  "alt_ko": "반려견 청진 검사 · 일반 주제 사진",
+  "is_real_location_photo": false,
+  "location_verification": "촬영지 미확인 · 서울 자치구나 특정 병원 실촬영으로 표시하지 않음",
+  "source_description": "A veterinarian performs a checkup on a fluffy dog using a stethoscope, highlighting care and wellness.",
+  "original_dimensions": [
+    4000,
+    6000
+  ],
+  "download_dimensions": [
+    2400,
+    3600
+  ],
+  "transformations": "사진 비율 유지",
+  "requirement_note": null,
+  "retrieved_date": "2026-11-16",
+  "original_sha256": "37d80d7219615ab91ccda0537f21da07ba874441acfa8e8c2e65ca936d6c4608",
+  "background_color": null
+}

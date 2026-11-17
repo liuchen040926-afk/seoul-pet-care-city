@@ -1,0 +1,34 @@
+{
+  "id": "11410",
+  "category": "pets",
+  "file_name": "assets/pets/11410.webp",
+  "original_filename": "37376749.jpg",
+  "source_page": "https://www.pexels.com/photo/cute-shih-tzu-dog-portrait-with-fluffy-fur-37376749/",
+  "original_source_address": "https://images.pexels.com/photos/37376749/pexels-photo-37376749.jpeg?cs=srgb&dl=pexels-kimymoto-37376749.jpg&fm=jpg",
+  "downloaded_source_address": "https://images.pexels.com/photos/37376749/pexels-photo-37376749.jpeg?auto=compress&cs=tinysrgb&w=2400",
+  "license": "Pexels License",
+  "license_url": "https://www.pexels.com/license/",
+  "author": "Kimy Moto",
+  "author_url": "https://www.pexels.com/@kimymoto/",
+  "district_code": "11410",
+  "district_name_ko": "서대문구",
+  "placement": "지역 상세 및 비교",
+  "purpose": "시추",
+  "alt_ko": "시추 · 일반 주제 사진",
+  "is_real_location_photo": false,
+  "location_verification": "촬영지 미확인 · 서울 자치구나 특정 병원 실촬영으로 표시하지 않음",
+  "source_description": "Adorable Shih Tzu dog with fluffy fur and attentive expression, ideal pet lifestyle image.",
+  "original_dimensions": [
+    6000,
+    4000
+  ],
+  "download_dimensions": [
+    2400,
+    1600
+  ],
+  "transformations": "배경 제거",
+  "requirement_note": null,
+  "retrieved_date": "2026-11-16",
+  "original_sha256": "abf98cb7c1be73e8c00a09ff8f8ef74fb4444269147234a82c5c1b6b917160db",
+  "background_color": "#FF6933"
+}

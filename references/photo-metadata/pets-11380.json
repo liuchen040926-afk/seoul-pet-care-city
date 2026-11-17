@@ -1,0 +1,34 @@
+{
+  "id": "11380",
+  "category": "pets",
+  "file_name": "assets/pets/11380.webp",
+  "original_filename": "4453058.jpg",
+  "source_page": "https://www.pexels.com/photo/white-long-coat-small-dog-on-brown-wooden-floor-4453058/",
+  "original_source_address": "https://images.pexels.com/photos/4453058/pexels-photo-4453058.jpeg?cs=srgb&dl=pexels-helenalopes-4453058.jpg&fm=jpg",
+  "downloaded_source_address": "https://images.pexels.com/photos/4453058/pexels-photo-4453058.jpeg?auto=compress&cs=tinysrgb&w=2400",
+  "license": "Pexels License",
+  "license_url": "https://www.pexels.com/license/",
+  "author": "Helena Lopes",
+  "author_url": "https://www.pexels.com/@helenalopes/",
+  "district_code": "11380",
+  "district_name_ko": "은평구",
+  "placement": "지역 상세 및 비교",
+  "purpose": "사모예드 강아지",
+  "alt_ko": "사모예드 강아지 · 일반 주제 사진",
+  "is_real_location_photo": false,
+  "location_verification": "촬영지 미확인 · 서울 자치구나 특정 병원 실촬영으로 표시하지 않음",
+  "source_description": "Charming Samoyed puppy sitting on wooden flooring, showcasing a fluffy white coat.",
+  "original_dimensions": [
+    5472,
+    3648
+  ],
+  "download_dimensions": [
+    2400,
+    1600
+  ],
+  "transformations": "배경 제거",
+  "requirement_note": null,
+  "retrieved_date": "2026-11-16",
+  "original_sha256": "f1db3ab9532e1982d8ebdea63b1b256e20309b3fbcda36b3b3fcdffc9582c377",
+  "background_color": "#FF6933"
+}

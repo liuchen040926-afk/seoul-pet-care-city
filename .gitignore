@@ -1,0 +1,13 @@
+node_modules/
+.ui-test.mjs
+.poster-render.mjs
+.DS_Store
+.image-models/
+__pycache__/
+# Generated outputs; GitHub Actions rebuilds these from tracked source.
+dist/
+public/data/
+.openai/
+.env
+.env.*
+!.env.example

@@ -1,0 +1,1 @@
+import fs from'node:fs';fs.rmSync('public/data',{recursive:true,force:true});fs.cpSync('data','public/data',{recursive:true});fs.mkdirSync('public/downloads',{recursive:true});for(const name of ['SEOUL-PET-CARE-CITY.svg','SEOUL-PET-CARE-CITY-3600.png'])if(fs.existsSync('exports/'+name))fs.copyFileSync('exports/'+name,'public/downloads/'+name);

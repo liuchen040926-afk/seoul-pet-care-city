@@ -1,0 +1,34 @@
+{
+  "id": "11230",
+  "category": "pets",
+  "file_name": "assets/pets/11230.webp",
+  "original_filename": "40844624.jpg",
+  "source_page": "https://www.pexels.com/photo/adorable-maltese-puppy-with-fluffy-white-fur-40844624/",
+  "original_source_address": "https://images.pexels.com/photos/40844624/pexels-photo-40844624.jpeg?cs=srgb&dl=pexels-renata-2165520770-40844624.jpg&fm=jpg",
+  "downloaded_source_address": "https://images.pexels.com/photos/40844624/pexels-photo-40844624.jpeg?auto=compress&cs=tinysrgb&w=2400",
+  "license": "Pexels License",
+  "license_url": "https://www.pexels.com/license/",
+  "author": "Renata",
+  "author_url": "https://www.pexels.com/@renata-2165520770/",
+  "district_code": "11230",
+  "district_name_ko": "동대문구",
+  "placement": "지역 상세 및 비교",
+  "purpose": "말티즈",
+  "alt_ko": "말티즈 · 일반 주제 사진",
+  "is_real_location_photo": false,
+  "location_verification": "촬영지 미확인 · 서울 자치구나 특정 병원 실촬영으로 표시하지 않음",
+  "source_description": "Cute Maltese puppy with fluffy white fur looking curiously indoors.",
+  "original_dimensions": [
+    5017,
+    3344
+  ],
+  "download_dimensions": [
+    2400,
+    1600
+  ],
+  "transformations": "배경 제거",
+  "requirement_note": null,
+  "retrieved_date": "2026-11-16",
+  "original_sha256": "c829304bc2c8eb8ed714a9e1349699a00c81cdff6357b5fa5940e3fc08539121",
+  "background_color": "#FF6933"
+}

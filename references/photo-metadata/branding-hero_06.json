@@ -1,0 +1,34 @@
+{
+  "id": "hero_06",
+  "category": "branding",
+  "file_name": "assets/branding/hero_06.webp",
+  "original_filename": "11230999.jpg",
+  "source_page": "https://www.pexels.com/photo/a-dog-sitting-down-11230999/",
+  "original_source_address": "https://images.pexels.com/photos/11230999/pexels-photo-11230999.jpeg?cs=srgb&dl=pexels-richard-cascaes-figueiredo-37075473-11230999.jpg&fm=jpg",
+  "downloaded_source_address": "https://images.pexels.com/photos/11230999/pexels-photo-11230999.jpeg?auto=compress&cs=tinysrgb&w=2400",
+  "license": "Pexels License",
+  "license_url": "https://www.pexels.com/license/",
+  "author": "Richard  Cascaes Figueiredo",
+  "author_url": "https://www.pexels.com/@richard-cascaes-figueiredo-37075473/",
+  "district_code": null,
+  "district_name_ko": null,
+  "placement": "브랜드 주제 시각 및 사진 출처",
+  "purpose": "시바 이누",
+  "alt_ko": "시바 이누 · 일반 주제 사진",
+  "is_real_location_photo": false,
+  "location_verification": "촬영지 미확인 · 서울 자치구나 특정 병원 실촬영으로 표시하지 않음",
+  "source_description": "A close-up portrait of a Shiba Inu dog sitting gracefully against a black background.",
+  "original_dimensions": [
+    3024,
+    4032
+  ],
+  "download_dimensions": [
+    2400,
+    3200
+  ],
+  "transformations": "배경 제거",
+  "requirement_note": null,
+  "retrieved_date": "2026-11-16",
+  "original_sha256": "c1a30a855c2e4c82ed6006bbdcbdf1445699a1aa85710f9ff385455fa8aaf324",
+  "background_color": null
+}

@@ -1,0 +1,34 @@
+{
+  "id": "hero_02",
+  "category": "branding",
+  "file_name": "assets/branding/hero_02.webp",
+  "original_filename": "14730839.jpg",
+  "source_page": "https://www.pexels.com/photo/happy-smiling-corgi-14730839/",
+  "original_source_address": "https://images.pexels.com/photos/14730839/pexels-photo-14730839.jpeg?cs=srgb&dl=pexels-alinaskazka-14730839.jpg&fm=jpg",
+  "downloaded_source_address": "https://images.pexels.com/photos/14730839/pexels-photo-14730839.jpeg?auto=compress&cs=tinysrgb&w=2400",
+  "license": "Pexels License",
+  "license_url": "https://www.pexels.com/license/",
+  "author": "Alina Skazka",
+  "author_url": "https://www.pexels.com/@alinaskazka/",
+  "district_code": null,
+  "district_name_ko": null,
+  "placement": "브랜드 주제 시각 및 사진 출처",
+  "purpose": "코기",
+  "alt_ko": "코기 · 일반 주제 사진",
+  "is_real_location_photo": false,
+  "location_verification": "촬영지 미확인 · 서울 자치구나 특정 병원 실촬영으로 표시하지 않음",
+  "source_description": "Charming corgi dog portrait with a playful and happy expression in a studio setting.",
+  "original_dimensions": [
+    4016,
+    6016
+  ],
+  "download_dimensions": [
+    2400,
+    3595
+  ],
+  "transformations": "배경 제거",
+  "requirement_note": null,
+  "retrieved_date": "2026-11-16",
+  "original_sha256": "7e3bc5019abf9ee85e35e6808fa1f7dc3bc97ab59fd569aa290298d85d05e4d2",
+  "background_color": null
+}

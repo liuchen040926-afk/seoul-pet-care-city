@@ -1,0 +1,34 @@
+{
+  "id": "11560",
+  "category": "pets",
+  "file_name": "assets/pets/11560.webp",
+  "original_filename": "3717106.jpg",
+  "source_page": "https://www.pexels.com/photo/cute-jack-russell-terrier-in-nature-3717106/",
+  "original_source_address": "https://images.pexels.com/photos/3717106/pexels-photo-3717106.jpeg?cs=srgb&dl=pexels-james-frid-81279-3717106.jpg&fm=jpg",
+  "downloaded_source_address": "https://images.pexels.com/photos/3717106/pexels-photo-3717106.jpeg?auto=compress&cs=tinysrgb&w=2400",
+  "license": "Pexels License",
+  "license_url": "https://www.pexels.com/license/",
+  "author": "James Frid",
+  "author_url": "https://www.pexels.com/@james-frid-81279/",
+  "district_code": "11560",
+  "district_name_ko": "영등포구",
+  "placement": "지역 상세 및 비교",
+  "purpose": "잭 러셀 테리어",
+  "alt_ko": "잭 러셀 테리어 · 일반 주제 사진",
+  "is_real_location_photo": false,
+  "location_verification": "촬영지 미확인 · 서울 자치구나 특정 병원 실촬영으로 표시하지 않음",
+  "source_description": "Adorable Jack Russell Terrier in a field, wearing a harness, on a sunny day.",
+  "original_dimensions": [
+    4176,
+    2784
+  ],
+  "download_dimensions": [
+    2400,
+    1600
+  ],
+  "transformations": "배경 제거",
+  "requirement_note": null,
+  "retrieved_date": "2026-11-16",
+  "original_sha256": "d1cc1e55785fc16db9889bf13e9694118ba5a798972612bf8e45d33df3cb5f72",
+  "background_color": "#FF6933"
+}

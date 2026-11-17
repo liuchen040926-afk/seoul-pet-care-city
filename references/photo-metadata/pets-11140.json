@@ -1,0 +1,34 @@
+{
+  "id": "11140",
+  "category": "pets",
+  "file_name": "assets/pets/11140.webp",
+  "original_filename": "36561219.jpg",
+  "source_page": "https://www.pexels.com/photo/close-up-of-chihuahua-dogs-outdoors-in-sunlight-36561219/",
+  "original_source_address": "https://images.pexels.com/photos/36561219/pexels-photo-36561219.jpeg?cs=srgb&dl=pexels-mike-art-visual-creator-photography-and-video-2159421235-36561219.jpg&fm=jpg",
+  "downloaded_source_address": "https://images.pexels.com/photos/36561219/pexels-photo-36561219.jpeg?auto=compress&cs=tinysrgb&w=2400",
+  "license": "Pexels License",
+  "license_url": "https://www.pexels.com/license/",
+  "author": "Mike Art 🎥 Visual Creator | Photography and Video 📸",
+  "author_url": "https://www.pexels.com/@mike-art-visual-creator-photography-and-video-2159421235/",
+  "district_code": "11140",
+  "district_name_ko": "중구",
+  "placement": "지역 상세 및 비교",
+  "purpose": "치와와",
+  "alt_ko": "치와와 · 일반 주제 사진",
+  "is_real_location_photo": false,
+  "location_verification": "촬영지 미확인 · 서울 자치구나 특정 병원 실촬영으로 표시하지 않음",
+  "source_description": "Close-up view of two Chihuahua dogs outdoors showing happy expressions under bright sunlight.",
+  "original_dimensions": [
+    4000,
+    6000
+  ],
+  "download_dimensions": [
+    2400,
+    3600
+  ],
+  "transformations": "배경 제거",
+  "requirement_note": null,
+  "retrieved_date": "2026-11-16",
+  "original_sha256": "9f65ab59a7e84a65a7d1901791f25675cb0215ee3d4ed2828015b0ad049f67b4",
+  "background_color": "#FF6933"
+}

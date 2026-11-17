@@ -1,0 +1,34 @@
+{
+  "id": "vet_01",
+  "category": "veterinary",
+  "file_name": "assets/veterinary/vet_01.webp",
+  "original_filename": "7474851.jpg",
+  "source_page": "https://www.pexels.com/photo/a-man-checking-up-at-a-brown-short-coated-dog-7474851/",
+  "original_source_address": "https://images.pexels.com/photos/7474851/pexels-photo-7474851.jpeg?cs=srgb&dl=pexels-mikhail-nilov-7474851.jpg&fm=jpg",
+  "downloaded_source_address": "https://images.pexels.com/photos/7474851/pexels-photo-7474851.jpeg?auto=compress&cs=tinysrgb&w=2400",
+  "license": "Pexels License",
+  "license_url": "https://www.pexels.com/license/",
+  "author": "Mikhail Nilov",
+  "author_url": "https://www.pexels.com/@mikhail-nilov/",
+  "district_code": null,
+  "district_name_ko": null,
+  "placement": "의료 모드 및 의료 사진 갤러리",
+  "purpose": "수의사의 리트리버 진찰",
+  "alt_ko": "수의사의 리트리버 진찰 · 일반 주제 사진",
+  "is_real_location_photo": false,
+  "location_verification": "촬영지 미확인 · 서울 자치구나 특정 병원 실촬영으로 표시하지 않음",
+  "source_description": "A veterinarian and volunteers perform a checkup on a dog in an indoor setting.",
+  "original_dimensions": [
+    3936,
+    2624
+  ],
+  "download_dimensions": [
+    2400,
+    1600
+  ],
+  "transformations": "사진 비율 유지",
+  "requirement_note": null,
+  "retrieved_date": "2026-11-16",
+  "original_sha256": "171434f1c28a6878d56c19dd3582ce9dac2b2d6aedc1cceeb323308930537b1a",
+  "background_color": null
+}

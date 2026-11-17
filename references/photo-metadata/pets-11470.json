@@ -1,0 +1,34 @@
+{
+  "id": "11470",
+  "category": "pets",
+  "file_name": "assets/pets/11470.webp",
+  "original_filename": "17325214.jpg",
+  "source_page": "https://www.pexels.com/photo/dog-sitting-on-grass-17325214/",
+  "original_source_address": "https://images.pexels.com/photos/17325214/pexels-photo-17325214.jpeg?cs=srgb&dl=pexels-slimmars-13-197677686-17325214.jpg&fm=jpg",
+  "downloaded_source_address": "https://images.pexels.com/photos/17325214/pexels-photo-17325214.jpeg?auto=compress&cs=tinysrgb&w=2400",
+  "license": "Pexels License",
+  "license_url": "https://www.pexels.com/license/",
+  "author": "SlimMars 13",
+  "author_url": "https://www.pexels.com/@slimmars-13-197677686/",
+  "district_code": "11470",
+  "district_name_ko": "양천구",
+  "placement": "지역 상세 및 비교",
+  "purpose": "코커 스패니얼",
+  "alt_ko": "코커 스패니얼 · 일반 주제 사진",
+  "is_real_location_photo": false,
+  "location_verification": "촬영지 미확인 · 서울 자치구나 특정 병원 실촬영으로 표시하지 않음",
+  "source_description": "A wet black and white cocker spaniel dog sitting on a grassy path in a forest, wearing a red collar.",
+  "original_dimensions": [
+    5120,
+    2880
+  ],
+  "download_dimensions": [
+    2400,
+    1350
+  ],
+  "transformations": "배경 제거",
+  "requirement_note": null,
+  "retrieved_date": "2026-11-16",
+  "original_sha256": "71929ca75783f8932e08828426020d0d544ecf10b18a0817059e384c848102a9",
+  "background_color": "#FF6933"
+}

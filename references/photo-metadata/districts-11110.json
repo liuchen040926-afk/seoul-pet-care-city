@@ -1,0 +1,34 @@
+{
+  "id": "11110",
+  "category": "districts",
+  "file_name": "assets/districts/11110.webp",
+  "original_filename": "8499460.jpg",
+  "source_page": "https://www.pexels.com/photo/person-in-yellow-raincoat-and-black-boots-walking-on-wet-road-8499460/",
+  "original_source_address": "https://images.pexels.com/photos/8499460/pexels-photo-8499460.jpeg?cs=srgb&dl=pexels-yaroslav-shuraev-8499460.jpg&fm=jpg",
+  "downloaded_source_address": "https://images.pexels.com/photos/8499460/pexels-photo-8499460.jpeg?auto=compress&cs=tinysrgb&w=2400",
+  "license": "Pexels License",
+  "license_url": "https://www.pexels.com/license/",
+  "author": "Yaroslav Shuraev",
+  "author_url": "https://www.pexels.com/@yaroslav-shuraev/",
+  "district_code": "11110",
+  "district_name_ko": "종로구",
+  "placement": "지역 상세 및 비교",
+  "purpose": "반려견과 함께하는 일상",
+  "alt_ko": "반려견과 함께하는 일상 · 일반 주제 사진",
+  "is_real_location_photo": false,
+  "location_verification": "촬영지 미확인 · 서울 자치구나 특정 병원 실촬영으로 표시하지 않음",
+  "source_description": "A person walks dogs in colorful raincoats on a wet road, capturing a rainy day vibe.",
+  "original_dimensions": [
+    6000,
+    4000
+  ],
+  "download_dimensions": [
+    2400,
+    1600
+  ],
+  "transformations": "16:9 자르기",
+  "requirement_note": "해당 자치구 촬영지 확인 불가. 일반 반려생활 주제 사진으로 대체.",
+  "retrieved_date": "2026-11-16",
+  "original_sha256": "7a14f7046481b2b9e8649897d58853c621493d7ece1515ce79d6e4ee2ffae4a2",
+  "background_color": null
+}

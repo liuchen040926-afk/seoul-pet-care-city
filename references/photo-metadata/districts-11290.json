@@ -1,0 +1,34 @@
+{
+  "id": "11290",
+  "category": "districts",
+  "file_name": "assets/districts/11290.webp",
+  "original_filename": "5938324.jpg",
+  "source_page": "https://www.pexels.com/photo/dogs-playing-with-a-stick-5938324/",
+  "original_source_address": "https://images.pexels.com/photos/5938324/pexels-photo-5938324.jpeg?cs=srgb&dl=pexels-aysun-kahraman-oktem-3890106-5938324.jpg&fm=jpg",
+  "downloaded_source_address": "https://images.pexels.com/photos/5938324/pexels-photo-5938324.jpeg?auto=compress&cs=tinysrgb&w=2400",
+  "license": "Pexels License",
+  "license_url": "https://www.pexels.com/license/",
+  "author": "Aysun Kahraman Öktem",
+  "author_url": "https://www.pexels.com/@aysun-kahraman-oktem-3890106/",
+  "district_code": "11290",
+  "district_name_ko": "성북구",
+  "placement": "지역 상세 및 비교",
+  "purpose": "반려견과 함께하는 일상",
+  "alt_ko": "반려견과 함께하는 일상 · 일반 주제 사진",
+  "is_real_location_photo": false,
+  "location_verification": "촬영지 미확인 · 서울 자치구나 특정 병원 실촬영으로 표시하지 않음",
+  "source_description": "Two dogs energetically playing with a stick on a grassy field, surrounded by nature.",
+  "original_dimensions": [
+    6192,
+    4128
+  ],
+  "download_dimensions": [
+    2400,
+    1600
+  ],
+  "transformations": "16:9 자르기",
+  "requirement_note": "해당 자치구 촬영지 확인 불가. 일반 반려생활 주제 사진으로 대체.",
+  "retrieved_date": "2026-11-16",
+  "original_sha256": "f3faa01149f94fc58c266ee21494d9f1f63b69e811a86101e261eabf059cda63",
+  "background_color": null
+}
