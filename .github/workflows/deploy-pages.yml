@@ -32,6 +32,7 @@ jobs:
         run: npm ci
       - name: Test calculations and existing interactions
         run: |
+          node scripts/audit-information.mjs
           npm test
           npm run test:ui
       - name: Build (also validates official data)

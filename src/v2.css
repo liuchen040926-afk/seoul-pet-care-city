@@ -95,3 +95,24 @@
 
 .radial-metric-controls button i{flex-shrink:0;white-space:nowrap}
 @media(max-width:760px){.radial-intro h1 br{display:none}.radial-intro h1 em{display:block;margin:0}.radial-stage{position:relative}.chart-controls::after{content:'그래프를 좌우로 밀어 25개 자치구를 확인하세요.';display:block;font-size:12px;color:#637086;margin-top:12px}}
+/* Explicit city/district scope and source-backed editorial findings. */
+.summary-picker{display:flex;align-items:center;gap:12px;font-size:12px;color:#637086;margin:14px 0 10px}
+.summary-picker select{min-width:0;flex:1;background:transparent;border:0;border-bottom:1px solid #B7C1CD;padding:7px 0;font-size:14px;color:#13213B}
+.summary-period{font-size:12px;color:#637086;margin:0;line-height:1.8}
+.radial-totals strong>.summary-value{display:inline;font-size:inherit;line-height:inherit;color:inherit}
+.summary-context{font-size:12px;line-height:1.7;color:#637086;margin:6px 0 0}
+.summary-definition{font-size:12px;color:#637086;line-height:1.8;margin:16px 0 6px}
+.summary-source{font-size:12px;padding:6px 0;border-bottom:1px solid #B7C1CD}
+.district-summary .district-compare{display:block;margin:14px 0 0}
+.radial-intro h1{font-size:clamp(64px,4.4vw,90px);line-height:.88;margin-bottom:25px}
+.radial-totals{gap:18px;margin:18px 0}.radial-totals strong{font-size:34px}
+.radial-intro h2{font-size:15px}.radial-date{font-size:12px}
+.data-insights{padding:42px 3.5% 32px;background:#F8F8F5;border-bottom:1px solid #13213B}
+.insights-heading{display:flex;align-items:baseline;gap:30px;margin-bottom:30px}
+.insights-heading h2{font-size:30px;font-weight:500;margin:0}.insights-heading p{font-size:14px;color:#637086;margin:0}.insights-heading button{margin-left:auto;border-bottom:1px solid #637086;padding:8px 0;font-size:14px}
+.insight-findings{display:grid;grid-template-columns:repeat(4,1fr);gap:30px;margin-bottom:38px}
+.insight-findings article{border-top:1px solid #DCE2EA;padding-top:18px}
+.insight-findings h3{font-size:14px;font-weight:400;color:#637086;margin:0 0 16px}.insight-districts button{font-size:23px;padding:0;border-bottom:1px solid #DCE2EA}.insight-findings p{font-size:14px;margin:12px 0}.insight-findings strong{font-size:36px;font-weight:500}
+.relationship{display:grid;grid-template-columns:1fr 1.3fr;gap:60px;border-top:1px solid #DCE2EA;padding-top:28px;align-items:center}.relationship-copy{max-width:560px}.relationship-copy h3{font-size:22px;font-weight:500;margin:0 0 20px}.relationship-copy p{font-size:14px;line-height:1.9;color:#637086}.relationship-copy .correlation-value{font-size:42px;color:#13213B;line-height:1.2;margin:18px 0}
+.scatter-wrap{min-width:0}.scatter-wrap svg{width:100%;display:block;max-height:350px}.scatter-wrap circle[role=button]{cursor:pointer}.scatter-wrap circle:focus-visible{stroke:#13213B;stroke-width:3;outline:none}.insight-limits{font-size:12px;color:#637086;line-height:1.9;margin:20px 0 0}
+@media(max-width:760px){.radial-intro h1{font-size:60px}.radial-totals strong{font-size:30px}.summary-picker{max-width:360px}.data-insights{padding:30px 5%}.insights-heading{flex-wrap:wrap;gap:12px;margin-bottom:24px}.insights-heading h2{font-size:25px}.insights-heading button{margin-left:0}.insight-findings{grid-template-columns:1fr 1fr;gap:24px 18px}.insight-findings h3{font-size:12px;line-height:1.7}.insight-findings strong{font-size:28px}.insight-districts button{font-size:21px}.relationship{display:block;padding-top:24px}.scatter-wrap{overflow:auto;margin-top:20px}.scatter-wrap svg{min-width:560px}.insight-limits{font-size:12px}}

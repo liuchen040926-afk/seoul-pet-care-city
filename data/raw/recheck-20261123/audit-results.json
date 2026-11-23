@@ -1,0 +1,97 @@
+{
+  "audit_date": "2026-11-23",
+  "reference_period": "2024-03",
+  "official_detail_url": "https://saif.or.kr/research-report/2461",
+  "official_pdf_url": "https://func.seoul.go.kr/digitalSeoul/digitalSeoulFileDown.do?guid=3E58739C8B1303B2E063C0A8A0686CDD",
+  "official_pdf_sha256": "b75ee4062fd317dc7593111eacdf597864507b5f6aa16f1c2677d69e34491c3e",
+  "manual_recheck": {
+    "dog_figure": "p.5 그림 2",
+    "hospital_figure": "p.9 그림 6",
+    "source_counts_rechecked": 50,
+    "matched": 50
+  },
+  "totals": {
+    "registered_dogs": 612085,
+    "veterinary_hospitals": 924,
+    "hospitals_per_1000_dogs": 1.5095942556997803
+  },
+  "findings": {
+    "dogsMost": [
+      {
+        "district_code": "11680",
+        "district_name_ko": "강남구",
+        "district_name_en": "Gangnam-gu",
+        "registered_dogs": 39792,
+        "veterinary_hospitals": 85,
+        "hospitals_per_1000_dogs": 2.1361077603538403,
+        "dog_reference_date": "2024-03",
+        "hospital_reference_date": "2024-03",
+        "dog_data_source": "https://func.seoul.go.kr/digitalSeoul/digitalSeoulFileDown.do?guid=3E58739C8B1303B2E063C0A8A0686CDD#page=5",
+        "hospital_data_source": "https://func.seoul.go.kr/digitalSeoul/digitalSeoulFileDown.do?guid=3E58739C8B1303B2E063C0A8A0686CDD#page=9",
+        "verification_status": "공표 도표 대조 완료",
+        "dog_count_definition": "동물보호관리시스템 등록 누적 운영데이터; 사망 개체 포함 (보고서 p.5 각주 7)",
+        "hospital_count_definition": "지방행정 인허가 데이터의 동물병원 수를 보고서가 2024.3 기준으로 집계 (p.9 그림 6)",
+        "source_publication_date": "2024-05-29"
+      }
+    ],
+    "hospitalsMost": [
+      {
+        "district_code": "11680",
+        "district_name_ko": "강남구",
+        "district_name_en": "Gangnam-gu",
+        "registered_dogs": 39792,
+        "veterinary_hospitals": 85,
+        "hospitals_per_1000_dogs": 2.1361077603538403,
+        "dog_reference_date": "2024-03",
+        "hospital_reference_date": "2024-03",
+        "dog_data_source": "https://func.seoul.go.kr/digitalSeoul/digitalSeoulFileDown.do?guid=3E58739C8B1303B2E063C0A8A0686CDD#page=5",
+        "hospital_data_source": "https://func.seoul.go.kr/digitalSeoul/digitalSeoulFileDown.do?guid=3E58739C8B1303B2E063C0A8A0686CDD#page=9",
+        "verification_status": "공표 도표 대조 완료",
+        "dog_count_definition": "동물보호관리시스템 등록 누적 운영데이터; 사망 개체 포함 (보고서 p.5 각주 7)",
+        "hospital_count_definition": "지방행정 인허가 데이터의 동물병원 수를 보고서가 2024.3 기준으로 집계 (p.9 그림 6)",
+        "source_publication_date": "2024-05-29"
+      }
+    ],
+    "ratioHighest": [
+      {
+        "district_code": "11140",
+        "district_name_ko": "중구",
+        "district_name_en": "Jung-gu",
+        "registered_dogs": 8823,
+        "veterinary_hospitals": 20,
+        "hospitals_per_1000_dogs": 2.2668026748271566,
+        "dog_reference_date": "2024-03",
+        "hospital_reference_date": "2024-03",
+        "dog_data_source": "https://func.seoul.go.kr/digitalSeoul/digitalSeoulFileDown.do?guid=3E58739C8B1303B2E063C0A8A0686CDD#page=5",
+        "hospital_data_source": "https://func.seoul.go.kr/digitalSeoul/digitalSeoulFileDown.do?guid=3E58739C8B1303B2E063C0A8A0686CDD#page=9",
+        "verification_status": "공표 도표 대조 완료",
+        "dog_count_definition": "동물보호관리시스템 등록 누적 운영데이터; 사망 개체 포함 (보고서 p.5 각주 7)",
+        "hospital_count_definition": "지방행정 인허가 데이터의 동물병원 수를 보고서가 2024.3 기준으로 집계 (p.9 그림 6)",
+        "source_publication_date": "2024-05-29"
+      }
+    ],
+    "ratioLowest": [
+      {
+        "district_code": "11590",
+        "district_name_ko": "동작구",
+        "district_name_en": "Dongjak-gu",
+        "registered_dogs": 21093,
+        "veterinary_hospitals": 20,
+        "hospitals_per_1000_dogs": 0.9481818612809937,
+        "dog_reference_date": "2024-03",
+        "hospital_reference_date": "2024-03",
+        "dog_data_source": "https://func.seoul.go.kr/digitalSeoul/digitalSeoulFileDown.do?guid=3E58739C8B1303B2E063C0A8A0686CDD#page=5",
+        "hospital_data_source": "https://func.seoul.go.kr/digitalSeoul/digitalSeoulFileDown.do?guid=3E58739C8B1303B2E063C0A8A0686CDD#page=9",
+        "verification_status": "공표 도표 대조 완료",
+        "dog_count_definition": "동물보호관리시스템 등록 누적 운영데이터; 사망 개체 포함 (보고서 p.5 각주 7)",
+        "hospital_count_definition": "지방행정 인허가 데이터의 동물병원 수를 보고서가 2024.3 기준으로 집계 (p.9 그림 6)",
+        "source_publication_date": "2024-05-29"
+      }
+    ],
+    "correlation": 0.8605106548897319,
+    "pairCount": 25
+  },
+  "scope_rule": "서울 전체 합계는 25개 자치구의 순위 대상이 아님",
+  "statistics_scope": "2024년 3월 공표 자료의 역사적 비교. 현재 생존견 수나 현재 영업 병원 명부가 아님.",
+  "passed": true
+}
