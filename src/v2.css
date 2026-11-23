@@ -62,3 +62,36 @@
 @media(min-width:1800px){.radial-main{padding-left:0}.radial-stage>svg{min-height:860px}}
 @media(min-width:761px) and (max-width:1150px){.radial-hero{grid-template-columns:230px minmax(0,1fr)}.radial-intro h1{font-size:68px}.radial-stage>svg{width:800px;height:800px;min-height:0}.radial-totals strong{font-size:32px}.radial-legend{font-size:14px}}
 @media(max-width:760px){.brand-header{height:72px}.radial-hero{display:block;padding:16px 5% 0}.radial-intro{padding:0}.radial-intro h1{font-size:66px;margin:18px 0}.radial-intro h2{font-size:17px}.radial-totals{grid-template-columns:1fr 1fr;gap:18px;margin:24px 0}.radial-totals>div:last-child{grid-column:1/-1}.radial-totals strong{font-size:32px}.radial-main{padding:14px 0}.radial-stage>svg{width:950px;height:950px;min-height:0;max-height:none}.radial-legend{font-size:14px;gap:10px}.radial-sort select{max-width:220px}.explorer-layout.has-detail{display:block}.map-section-title{font-size:24px}.radial-tooltip p{font-size:12px}.radial-tooltip small{font-size:11px}}
+
+/* One integrated visualization, following the Korean critique (2026-11-17). */
+.radial-hero{grid-template-columns:minmax(260px,22%) minmax(0,1fr);gap:0 20px;padding-top:18px}
+.radial-intro{padding-top:26px}
+.radial-intro h1{font-size:clamp(66px,5vw,100px);margin-top:0}
+.radial-main{justify-content:flex-start;min-width:0}
+.chart-controls{padding:0 20px}
+.radial-metric-controls{display:grid;grid-template-columns:1fr 1fr 1.4fr;gap:0;border-bottom:1px solid #DCE2EA}
+.radial-metric-controls button{display:flex;align-items:center;justify-content:center;gap:9px;min-height:52px;padding:10px 12px;font-size:14px;color:#637086;border-bottom:3px solid transparent;transition:color .2s,border-color .2s}
+.radial-metric-controls button i{font-style:normal;color:var(--metric-color);font-size:20px}
+.radial-metric-controls button[aria-pressed=true]{color:#13213B;border-color:var(--metric-color)}
+.chart-sort-status{margin:10px 0 0;font-size:12px;color:#637086;text-align:right;min-height:20px}
+.radial-stage>svg{height:calc(100svh - 235px);min-height:680px;max-height:1100px}
+.radial-position{transition:transform .5s ease,opacity .2s}
+.center-map-district{transition:fill .25s,opacity .2s}
+.radial-sort{justify-content:flex-end;flex-wrap:wrap;padding:12px 20px;gap:20px}
+.radial-totals{margin:20px 0;gap:22px}
+.radial-totals span{font-size:13px}
+.radial-totals strong{font-size:36px}
+.district-rank{display:block;color:#637086;font-size:12px;margin-top:4px}
+.summary-heading{display:flex;align-items:center;justify-content:space-between;border-top:1px solid #DCE2EA;padding-top:18px;margin-top:24px}
+.summary-heading h3{font-size:23px;font-weight:500;margin:0}
+.summary-heading button{font-size:12px;padding:8px 0}
+.district-compare{font-size:14px;border-bottom:1px solid #13213B;padding:8px 0;margin-bottom:16px}
+.radial-reading{font-size:12px;max-width:1100px;margin:16px 0;line-height:1.9}
+.radial-downloads{margin-top:24px}
+@media(min-width:1800px){.radial-stage>svg{min-height:820px}.radial-intro h1{font-size:100px}}
+@media(min-width:761px) and (max-width:1150px){.radial-hero{grid-template-columns:240px minmax(0,1fr)}.radial-stage>svg{height:800px;width:800px;min-height:0}.chart-controls{padding:0}.radial-metric-controls button{font-size:12px;padding:10px 5px}.radial-intro h1{font-size:68px}}
+@media(max-width:760px){.radial-hero{display:block;padding:18px 5% 0}.radial-intro{padding:0}.radial-intro h1{font-size:60px;line-height:.9;margin:12px 0 22px}.radial-intro h1 br:first-of-type{display:none}.radial-intro h1 em{display:block}.radial-intro h2{font-size:16px}.radial-totals{grid-template-columns:1fr 1fr;gap:16px}.radial-totals>div:last-child{grid-column:1/-1}.radial-totals strong{font-size:30px}.radial-totals span{font-size:12px;min-height:0}.chart-controls{padding:0;margin-top:25px}.radial-metric-controls{grid-template-columns:1fr 1fr 1.4fr}.radial-metric-controls button{font-size:12px;padding:10px 4px;gap:5px;align-items:flex-start}.radial-metric-controls button i{font-size:17px}.chart-sort-status{font-size:12px;text-align:left;margin-top:12px}.radial-stage>svg{width:950px;height:950px;max-height:none;min-height:0}.radial-sort{padding:12px 0;justify-content:flex-start;gap:14px}.radial-reading{font-size:12px}.compact-footer{gap:15px}}
+@media(prefers-reduced-motion:reduce){.radial-position{transition:none!important}}
+
+.radial-metric-controls button i{flex-shrink:0;white-space:nowrap}
+@media(max-width:760px){.radial-intro h1 br{display:none}.radial-intro h1 em{display:block;margin:0}.radial-stage{position:relative}.chart-controls::after{content:'그래프를 좌우로 밀어 25개 자치구를 확인하세요.';display:block;font-size:12px;color:#637086;margin-top:12px}}

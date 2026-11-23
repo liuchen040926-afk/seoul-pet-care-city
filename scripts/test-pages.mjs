@@ -81,10 +81,10 @@ try {
     };
     assert.equal(document.querySelectorAll('#radial-chart').length, 1);
     assert.equal(document.querySelectorAll('.ratio-point').length, 25);
-    assert.equal(document.querySelectorAll('.district-shape').length, 25);
+    assert.equal(document.querySelectorAll('.center-map-district').length, 25);
     await localLinks();
     click(document.querySelector('#radial-chart [data-district="11680"]'));await pause();
-    assert.equal(document.querySelector('.district-panel h2').textContent, '강남구');await localLinks();
+    assert.equal(document.querySelector('.summary-heading h3').textContent, '강남구');await localLinks();
     click(button('지역 비교 ↗'));await pause();assert.equal(document.querySelectorAll('.compare-photo img').length,2);await localLinks();
     click(document.querySelector('.modal-header .close'));await pause();
     click(button('데이터 출처'));await pause();await localLinks();

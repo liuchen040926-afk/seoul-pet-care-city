@@ -1,3 +1,13 @@
+## 2026-11-23 教授评语整合更新
+
+原网址保持不变：https://liuchen040926-afk.github.io/seoul-pet-care-city/
+
+仅保留一张大型圆盘综合图。三个顶部指标按钮同时控制全部图层的降序排列、真实共同排名和中央地图着色；初始仍为基本排列与全部图层。中央地图扩大并标注25区；选择后左侧全市总数切换为该区数值。删除第二张重复地图、重复指标按钮及重复地区数字。搜索、比较、数据表、来源、下载与SVG/PNG导出保留。
+
+教授原话及误译判断见 `references/PROFESSOR_FEEDBACK_ANALYSIS.md`。当前浏览器测试记录见 `TEST_REPORT.md` 顶部，截图在 `exports/`。将 `exports/SEOUL-PET-CARE-CITY.svg` 拖入Figma即可继续编辑文字和路径；它不是原生.fig文件。
+
+---
+
 # SEOUL PET CARE CITY 3.0
 
 GitHub Pages 发布步骤见 **GITHUB_PAGES_SETUP.md**。本项目已配置相对资源路径和自动部署工作流。
