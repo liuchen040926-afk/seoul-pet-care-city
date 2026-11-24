@@ -116,3 +116,12 @@
 .relationship{display:grid;grid-template-columns:1fr 1.3fr;gap:60px;border-top:1px solid #DCE2EA;padding-top:28px;align-items:center}.relationship-copy{max-width:560px}.relationship-copy h3{font-size:22px;font-weight:500;margin:0 0 20px}.relationship-copy p{font-size:14px;line-height:1.9;color:#637086}.relationship-copy .correlation-value{font-size:42px;color:#13213B;line-height:1.2;margin:18px 0}
 .scatter-wrap{min-width:0}.scatter-wrap svg{width:100%;display:block;max-height:350px}.scatter-wrap circle[role=button]{cursor:pointer}.scatter-wrap circle:focus-visible{stroke:#13213B;stroke-width:3;outline:none}.insight-limits{font-size:12px;color:#637086;line-height:1.9;margin:20px 0 0}
 @media(max-width:760px){.radial-intro h1{font-size:60px}.radial-totals strong{font-size:30px}.summary-picker{max-width:360px}.data-insights{padding:30px 5%}.insights-heading{flex-wrap:wrap;gap:12px;margin-bottom:24px}.insights-heading h2{font-size:25px}.insights-heading button{margin-left:0}.insight-findings{grid-template-columns:1fr 1fr;gap:24px 18px}.insight-findings h3{font-size:12px;line-height:1.7}.insight-findings strong{font-size:28px}.insight-districts button{font-size:21px}.relationship{display:block;padding-top:24px}.scatter-wrap{overflow:auto;margin-top:20px}.scatter-wrap svg{min-width:560px}.insight-limits{font-size:12px}}
+
+/* Unified circular markers and softly rounded metric controls. */
+.radial-metric-controls{gap:12px;border:0;padding:4px 0}
+.radial-metric-controls button{border:1px solid transparent;border-radius:999px;min-height:48px;padding:11px 18px;gap:10px;background:transparent;transition:background .2s,border-color .2s,color .2s}
+.radial-metric-controls button .metric-dot{display:block;width:9px;height:9px;flex:0 0 9px;border-radius:50%;background:var(--metric-color)}
+.radial-metric-controls button:hover{background:color-mix(in srgb,var(--metric-color) 7%,#F8F8F5)}
+.radial-metric-controls button[aria-pressed=true]{border-color:color-mix(in srgb,var(--metric-color) 35%,transparent);background:color-mix(in srgb,var(--metric-color) 9%,#F8F8F5);color:#13213B}
+.radial-metric-controls button:focus-visible{outline:2px solid var(--metric-color);outline-offset:3px}
+@media(max-width:760px){.radial-metric-controls{gap:5px}.radial-metric-controls button{font-size:12px;padding:10px 7px;gap:6px;align-items:center;min-height:56px}.radial-metric-controls button .metric-dot{width:7px;height:7px;flex-basis:7px}}
