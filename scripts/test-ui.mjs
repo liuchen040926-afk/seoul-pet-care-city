@@ -32,8 +32,7 @@ try {
  assert.equal(document.querySelector('[data-map-metric]').dataset.mapMetric,'hospitals_per_1000_dogs');
  assert.equal(document.querySelectorAll('.district-summary .district-rank').length,0);
  assert.equal(document.querySelectorAll('.district-summary .district-compare').length,0);
- assert.equal(document.querySelectorAll('[data-scatter-district]').length,25);
- assert(document.querySelector('.correlation-value').textContent.includes('0.861'));
+ assert.equal(document.querySelectorAll('.data-insights').length,0);
  for(const row of rows){change(document.querySelector('[aria-label="요약 지역 선택"]'),row.district_code);await pause();assert.equal(document.querySelector('.district-summary').dataset.summaryCode,row.district_code);for(const key of ['registered_dogs','veterinary_hospitals','hospitals_per_1000_dogs']){const block=document.querySelector(`[data-summary-metric="${key}"]`);assert.equal(block.querySelector('.summary-value').textContent,new Intl.NumberFormat('ko-KR',{minimumFractionDigits:key==='hospitals_per_1000_dogs'?2:0,maximumFractionDigits:key==='hospitals_per_1000_dogs'?2:0}).format(row[key]));assert.equal(block.querySelector('.district-rank').textContent,`공동순위 ${rank(rows,row,key)} / 25`);}}
  change(document.querySelector('[aria-label="요약 지역 선택"]'),'');await pause();assert.equal(document.querySelector('.district-summary').dataset.summaryScope,'city');assert.equal(document.querySelectorAll('.district-summary .district-rank').length,0);
  console.log('PASS every one of 25 selectable summaries shows its own values/ranks; city aggregate has no district rank');

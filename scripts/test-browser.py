@@ -26,10 +26,7 @@ with sync_playwright() as p:
  page.get_by_label('요약 지역 선택',exact=True).select_option('')
  assert page.locator('.district-summary .district-rank').count()==0
  assert page.locator('.summary-value').first.inner_text()=='612,085'
- assert page.locator('[data-scatter-district]').count()==25
- assert page.locator('.correlation-value').inner_text()=='r = 0.861'
- page.locator('[data-scatter-district="11140"]').click()
- assert page.locator('.summary-heading h3').inner_text()=='중구'
+ assert page.locator('.data-insights').count()==0
  page.get_by_role('button',name='초기화 ↺',exact=True).click()
  page.emulate_media(reduced_motion='reduce')
  page.screenshot(path=str(root/'exports/professor-revision-1920.png'),full_page=True)
@@ -64,5 +61,5 @@ with sync_playwright() as p:
    assert page.locator('.radial-stage').evaluate('(e)=>e.scrollWidth>e.clientWidth')
    page.locator('.radial-stage').evaluate('(e)=>e.scrollLeft=300');assert page.locator('.radial-stage').evaluate('(e)=>e.scrollLeft')==300
  assert not errors,errors
- print('PASS real Chromium: all 25 summaries/75 values/ranks, translated-node resilience, city unranked, computed insights/scatter, five viewports; all 25 labels inside SVG; three ranking controls; keyboard/map; tooltip; comparison; filtered search; reset; CSV/JSON; SVG and 3600px PNG; mobile chart scroll; no console errors')
+ print('PASS real Chromium: all 25 summaries/75 values/ranks, translated-node resilience, city unranked, no secondary insights section, five viewports; all 25 labels inside SVG; three ranking controls; keyboard/map; tooltip; comparison; filtered search; reset; CSV/JSON; SVG and 3600px PNG; mobile chart scroll; no console errors')
  browser.close()
