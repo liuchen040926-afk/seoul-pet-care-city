@@ -125,3 +125,55 @@
 .radial-metric-controls button[aria-pressed=true]{border-color:color-mix(in srgb,var(--metric-color) 35%,transparent);background:color-mix(in srgb,var(--metric-color) 9%,#F8F8F5);color:#13213B}
 .radial-metric-controls button:focus-visible{outline:2px solid var(--metric-color);outline-offset:3px}
 @media(max-width:760px){.radial-metric-controls{gap:5px}.radial-metric-controls button{font-size:12px;padding:10px 7px;gap:6px;align-items:center;min-height:56px}.radial-metric-controls button .metric-dot{width:7px;height:7px;flex-basis:7px}}
+
+/* Exhibition layout: free the chart's full viewport height. */
+@media(min-width:1101px){
+ .brand-header{height:64px;padding:0 3%}
+ .radial-hero{grid-template-columns:minmax(260px,17.5%) minmax(0,1fr);gap:0 28px;padding:10px 3% 0}
+ .radial-intro{padding:14px 0 12px}
+ .radial-intro h1{font-size:clamp(60px,3.8vw,78px);line-height:.88;margin:0 0 20px;letter-spacing:-.045em}
+ .radial-intro h1 em{font-size:.9em;white-space:nowrap}
+ .radial-intro h2{font-size:14px;line-height:1.75;margin:14px 0 10px;letter-spacing:-.35px}
+ .radial-date{margin:0 0 18px;font-size:12px}
+ .radial-intro .chart-controls{padding:0;margin:0 0 16px}
+ .radial-intro .radial-metric-controls{grid-template-columns:1fr;gap:6px;padding:0}
+ .radial-intro .radial-metric-controls button{justify-content:flex-start;min-height:38px;padding:9px 14px;font-size:13px}
+ .radial-intro .chart-sort-status{text-align:left;line-height:1.65;font-size:12px;margin:9px 0 0;min-height:0}
+ .radial-main{padding:0;justify-content:flex-start}
+ .radial-stage{overflow:visible;margin:0}
+ .radial-stage>svg{width:100%;height:calc(100svh - 84px);min-height:0;max-height:1380px}
+ .summary-heading{margin-top:14px;padding-top:14px}
+ .summary-heading h3{font-size:22px}
+ .summary-picker{margin:10px 0 8px}
+ .summary-period{font-size:11px}
+ .radial-totals{gap:14px;margin:16px 0}
+ .radial-totals strong{font-size:32px;line-height:1.3}
+ .summary-context{font-size:11px;margin-top:4px}
+ .summary-definition{margin-top:12px;font-size:11px}
+ .summary-source{font-size:11px}
+ .radial-downloads{margin-top:18px;gap:18px}
+ .radial-downloads button{font-size:12px}
+ .radial-sort{padding:10px 14px;gap:20px}
+ .radial-reading{font-size:12px;margin:12px 0 16px}
+}
+@media(min-width:761px) and (max-width:1100px){
+ .radial-hero{display:block;padding:24px 4% 0}
+ .radial-intro{display:grid;grid-template-columns:1fr 1fr;gap:0 32px;padding:0}
+ .radial-intro h1{grid-column:1;font-size:64px;margin:0 0 18px}
+ .radial-intro h2,.radial-date,.radial-intro .chart-controls,.radial-downloads{grid-column:1}
+ .district-summary{grid-column:2;grid-row:1/6}
+ .radial-intro .chart-controls{padding:0;margin:14px 0}
+ .radial-intro .radial-metric-controls{grid-template-columns:1fr;gap:6px}
+ .radial-intro .radial-metric-controls button{justify-content:flex-start;min-height:40px}
+ .chart-sort-status{text-align:left;line-height:1.7}
+ .radial-stage{overflow:auto;margin-top:20px}
+ .radial-stage>svg{width:100%;height:auto;min-width:900px;min-height:0;max-height:none;aspect-ratio:1}
+ .radial-main{padding:0}
+}
+@media(max-width:760px){
+ .radial-intro .chart-controls{margin:22px 0 18px}
+ .radial-intro h1{font-size:60px}
+ .radial-main{padding-top:10px}
+}
+
+@media(min-width:761px) and (max-width:1100px){.radial-stage::before{content:'좌우로 밀어 전체 그래프를 확인하세요.';display:block;position:sticky;left:0;font-size:12px;color:#637086;margin-bottom:14px}}

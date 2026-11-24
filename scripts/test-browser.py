@@ -30,6 +30,10 @@ with sync_playwright() as p:
  page.get_by_role('button',name='초기화 ↺',exact=True).click()
  page.emulate_media(reduced_motion='reduce')
  page.screenshot(path=str(root/'exports/professor-revision-1920.png'),full_page=True)
+ overlaps=page.locator('.center-map-labels text').evaluate_all('''es=>es.flatMap((e,i)=>es.slice(i+1).filter(f=>{const a=e.getBoundingClientRect(),b=f.getBoundingClientRect();return a.left<b.right&&a.right>b.left&&a.top<b.bottom&&a.bottom>b.top}).map(f=>[e.textContent,f.textContent]))''')
+ assert not overlaps,overlaps
+ map_radius=page.locator('.center-map-district').evaluate_all('''es=>Math.max(...es.flatMap(e=>Array.from({length:51},(_,i)=>{const p=e.getPointAtLength(e.getTotalLength()*i/50);return Math.hypot(p.x,p.y)})))''')
+ assert map_radius<225
  # No map label, peripheral name or tick overlaps after every metric switch.
  for name,key in [('반려견 등록 수','registered_dogs'),('동물병원 수','veterinary_hospitals'),('등록견 1,000마리당 병원','hospitals_per_1000_dogs')]:
   page.get_by_role('button',name=name,exact=True).click();page.wait_for_timeout(100)
@@ -57,6 +61,10 @@ with sync_playwright() as p:
  for width,height in [(1920,1080),(1440,900),(2560,1440),(768,1024),(390,844)]:
   page.set_viewport_size({'width':width,'height':height});page.screenshot(path=str(root/'exports'/f'professor-revision-{width}.png'),full_page=True)
   assert not page.evaluate('document.documentElement.scrollWidth>innerWidth')
+  if width>1100:
+   chart_box=page.locator('#radial-chart').bounding_box()
+   assert chart_box['y']+chart_box['height']<=height
+   assert chart_box['height']>=height*.88
   if width==390:
    assert page.locator('.radial-stage').evaluate('(e)=>e.scrollWidth>e.clientWidth')
    page.locator('.radial-stage').evaluate('(e)=>e.scrollLeft=300');assert page.locator('.radial-stage').evaluate('(e)=>e.scrollLeft')==300
