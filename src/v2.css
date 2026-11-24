@@ -177,3 +177,27 @@
 }
 
 @media(min-width:761px) and (max-width:1100px){.radial-stage::before{content:'좌우로 밀어 전체 그래프를 확인하세요.';display:block;position:sticky;left:0;font-size:12px;color:#637086;margin-bottom:14px}}
+
+/* Concise presentation: supporting text yields to the chart. */
+.radial-intro h1{font-size:48px;line-height:.92;margin-bottom:16px}
+.radial-intro h1 em{font-size:1em}
+.radial-intro h2{font-size:13px;line-height:1.7;margin:12px 0 6px}
+.radial-date{font-size:11px;margin-bottom:16px}
+.radial-intro .chart-controls{margin-bottom:12px}
+.chart-sort-status{font-size:11px;line-height:1.6}
+.summary-heading{margin-top:12px;padding-top:14px}
+.summary-heading h3{font-size:19px}
+.summary-picker{font-size:11px;margin:10px 0}
+.summary-picker select{font-size:13px}
+.radial-totals{display:grid;grid-template-columns:1fr;gap:0;margin:12px 0}
+.radial-totals>div,.radial-totals>div:last-child{display:grid;grid-template-columns:minmax(0,1fr) auto;gap:4px 12px;align-items:baseline;grid-column:auto;padding:12px 0;border-bottom:1px solid #E6E9EE}
+.radial-totals>div>span{font-size:12px;line-height:1.6;min-height:0}
+.radial-totals strong{font-size:27px;letter-spacing:-.7px;line-height:1.2}
+.radial-totals strong small{font-size:10px;margin-left:4px}
+.radial-totals .district-rank{grid-column:1/-1;text-align:right;font-size:11px;margin-top:0}
+.summary-source{font-size:11px;margin-top:2px}
+.radial-downloads{gap:16px;margin-top:20px}
+.radial-downloads button{font-size:12px}
+.radial-reading{font-size:11px;color:#637086;margin:10px 0 14px}
+@media(min-width:1101px){.radial-hero{grid-template-columns:minmax(250px,16%) minmax(0,1fr);gap:0 28px}.radial-intro{padding-top:16px}.radial-intro h1{font-size:48px}.radial-intro .radial-metric-controls button{font-size:12px;min-height:36px;padding:8px 12px}.radial-stage>svg{height:calc(100svh - 84px)}}
+@media(max-width:760px){.radial-intro h1{font-size:42px}.radial-intro h2{font-size:13px}.radial-totals{grid-template-columns:1fr}.radial-totals>div:last-child{grid-column:auto}.radial-intro .chart-controls{margin:18px 0}.radial-totals strong{font-size:27px}}
